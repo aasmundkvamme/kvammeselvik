@@ -1,0 +1,26 @@
+Digital arbeidsdag
+##################
+:date: 2022-01-19 08:11
+:author: Aasmund
+:category: Ymse
+:slug: digital-arbeidsdag
+:status: draft
+
+.. container:: float wp-block-image size-large
+
+   |image1|
+
+Dei viktigaste tinga for dagen er på plass:
+
+-  PC (skjult bak skjermane) med mini-tastatur, trådlaus mus og kamera
+-  To skjermar til arbeid
+-  Kalkulator
+-  Notatblokk til ymse
+-  Kaffi
+
+Og ein liten skjerm nede i kroken for å ha digital undervising med studentane. I dag var den i bruk meir eller mindre konstant i tre timar for å svare på spørsmål. Ikkje mykje tid til å nyte utsikta (som i dag var ein gravemaskin i skogholtet rett utanfor).
+
+Når dagen er over er det berre å pakke ned i veska og setje inn i skapet. I morgon er det (kanskje) ny pult.
+
+.. |image1| image:: http://kvammeselvik.org/wp-content/uploads/2022/01/20220119_0805148373601986337709507-1024x461.jpg
+   :class: wp-image-499

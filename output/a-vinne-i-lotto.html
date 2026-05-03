@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+        <title>Å vinne i Lotto</title>
+        <meta charset="utf-8" />
+
+
+        <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+        <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
+
+        <link rel="stylesheet" type="text/css" href="/theme/gumby.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/style.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/pygment.css" />
+
+
+        <script src="/theme/js/libs/modernizr-2.6.2.min.js"></script>
+
+
+
+
+
+</head>
+
+<body id="index" class="home">
+
+
+    <div class="container">
+
+        <div class="row">
+
+          <header id="banner" class="body">
+                  <h1><a href="/">KvammeSelvik <strong></strong></a></h1>
+          </header><!-- /#banner -->
+
+            <div id="navigation" class="navbar row">
+              <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
+             
+              <ul class="columns">
+                <li><a href="/">Startsida</a></li>
+
+                <li><a href="/pages/om-meg-no.html">Om&nbsp;meg</a></li>
+                <li><a href="/pages/kvammeselvik.html">KvammeSelvik</a></li>
+
+              </ul>
+            </div>
+
+<section id="content" class="body">
+
+   <div class="row">
+        <div class="eleven columns">
+
+
+            <header>
+              <h2 class="entry-title">
+                <a href="/a-vinne-i-lotto.html" rel="bookmark"
+                   title="Permalink to Å vinne i Lotto">Å vinne i&nbsp;Lotto</a></h2>
+           
+            </header>
+            <footer class="post-info">
+              <abbr class="published" title="2021-02-10T21:53:00+01:00">
+                2021-02-10
+              </abbr>
+              <address class="vcard author">By 
+                <a class="url fn" href="/author/aasmund.html"> Aasmund</a>
+              </address>
+            </footer><!-- /.post-info -->
+            <div class="entry-content">
+              <div class="section" id="bakgrunn">
+<h2>Bakgrunn</h2>
+<p>Eg tippar Lotto fast kvar veke, og vinn av og til. I 2020 vant eg faktisk 13 av 52 veker, og synest dette var svært ofte. Ikkje store gevinstar; stort sett 50 kroner, så det var eit tapsprosjekt. Men eg vart interessert, og reknar her ut sannsynligheten for at eg skal vinne 13 veker (eller fleire) i løpet av eit&nbsp;år.</p>
+<p>Premissane er altså: eg tippar ti ulike rekker kvar veke, 52 veker i året. På kvar rekke kan eg vinne ein av fem ulike gevinstar: 7 rette, 6 rette og tilleggstal, 6 rette, 5 rette eller 4&nbsp;rette.</p>
+<p>Sidan dette er ein del av undervisinga i emnet &#8220;Statistikk og landmåling&#8221; ved Høgskulen på Vestlandet, så er alle utrekningar gjort i programmet <span class="caps">MATLAB</span>. Men om du vil kontrollere kjem formlane på&nbsp;slutten.</p>
+</div>
+<div class="section" id="vinne-pa-ei-rekke">
+<h2>Vinne på ei&nbsp;rekke</h2>
+<p>Eg reknar først ut sannsynligheten for å vinne ein eller annan gevinst på ei rekke. Dette gjer eg ved ein heimesnekra <span class="caps">MATLAB</span>-funksjon <tt class="docutils literal">plotto(h, t)</tt> der <tt class="docutils literal">h</tt> er antal rette eg får blant &#8220;hovedtala&#8221; og <tt class="docutils literal">t</tt> er antal rette eg får blant&nbsp;tilleggstala.</p>
+<p><tt class="docutils literal">prekke = <span class="pre">plotto(4,0)+plotto(5,0)+plotto(6,0)+plotto(6,1)+plotto(7,0)</span></tt></p>
+<p>Dette gir at $latex P(\text{ein elller annan gevinst på ei rekke}) =&nbsp;0,01822$</p>
+</div>
+<div class="section" id="vinne-minst-ein-gevinst-pa-ti-rekker">
+<h2>Vinne minst ein gevinst på ti&nbsp;rekker</h2>
+<p>Så ser eg på sannsynligheten for å vinne på minst ei av dei ti rekkene kvar veke. Dette er eit <em>binomisk</em> forsøk, med $latex n=10$ og $latex p = 0,01822$ (altså variabelen <tt class="docutils literal">prekke</tt>). La $latex X$ vere antal gevinstar på 10 rekker; eg skal då rekne ut $latex&nbsp;P(X\geq1)=1-P(X=0)$:</p>
+<p><tt class="docutils literal">pveke = <span class="pre">1-binopdf(0,10,prekke)</span></tt></p>
+<p>Som gir $latex P(\text{minst ein gevinst ei veke})=&nbsp;0,16796$</p>
+</div>
+<div class="section" id="vinne-minst-13-gevinstar-pa-52-veker">
+<h2>Vinne minst 13 gevinstar på 52&nbsp;veker</h2>
+<p>Så det store spørsmålet: kva er sannsynligheten for å vinne i 13 eller fleire av dei 52 vekene? Dette er også eit binomisk forsøk, med $latex n=52$ og $latex p=0,16796$ (altså variabelen <tt class="docutils literal">pveke</tt>). Eg skal rekne ut $latex&nbsp;P(X\geq13)=1-P(X\leq12)$:</p>
+<p><tt class="docutils literal">paar = <span class="pre">1-binocdf(12,52,pveke)</span></tt></p>
+<p>som gir $latex P(\text{vinne 13 eller fleire ganger på eit år})=&nbsp;0,085775$</p>
+<p>Det er altså 8,5 % sannsynlighet for at eg skal vinne så mange ganger (eller fleire) i løpet av eit år. Er det stor eller liten sannsynlighet? Det er ganske nær $latex 1/12$, så om du er i eit rom med 11 andre så kan du forvente at ein av dykk har vunnet så ofte. Døm&nbsp;sjølv!</p>
+</div>
+<div class="section" id="matematikken">
+<h2>Matematikken</h2>
+<p>Eg bruker standardformlar frå sannsynlighetsrekning og kombinatorikk. Den viktigaste byggesteinen er <em>binomialkoeffisienten</em></p>
+<p>$latex \displaystyle {{n}\choose{k}} = \frac{n!}{x!(n-x)!}$, der $latex n! = n\cdot(n-1)\cdot(n-2)\cdots 3\cdot 2\cdot&nbsp;1$</p>
+<p>Til dømes er $latex \displaystyle 4! =&nbsp;4\cdot3\cdot2\cdot1=24$.</p>
+<p>Binomialkoeffisienten kan eg bruke til å rekne ut kor mange ulike måtar eg kan velje $latex k$ tal frå $latex n$ på. Til dømes vert då antalet&nbsp;Lotto-rekker</p>
+<p>$latex \displaystyle {{34}\choose{7}} = \frac{34!}{7!(27)!} =&nbsp;5\,379\,616$.</p>
+<p>Så er det den heimesnekra <span class="caps">MATLAB</span>-funksjonen <tt class="docutils literal">plotto(h, t)</tt>. Den er bygd opp som ein <em>hypergeometrisk</em> sannsynlighet, der eg ser på antal &#8220;gunstige&#8221; kombinasjonar av <em>hovedtal</em> (<tt class="docutils literal">h</tt>) og <em>tilleggstal</em> (<tt class="docutils literal">t</tt>) eg har&nbsp;tippa:</p>
+<p>$latex P_{\text{lotto}}(h, t) =&nbsp;\displaystyle\frac{{{7}\choose{h}}\cdot{{1}\choose{t}}\cdot{{26}\choose{7-(h+t)}}}{{34}\choose{7}}$</p>
+<p>Til slutt har eg nytta formelen for <em>punktsannsynlighet</em> i binomisk fordeling (med parametre $latex n$ og $latex&nbsp;p$):</p>
+<p>$latex P(X=x) =&nbsp;{{n}\choose{x}}p^x(1-p)^{n-x}$</p>
+<p>og formelen for <em>kumulativ sannsynlighet</em>:</p>
+<p>$latex P(X\leq x) = \sum_{k=0}^{x}&nbsp;{{n}\choose{x}}p^k(1-p)^{n-k}$</p>
+<p>Men som sagt: alt dette ligg innebygd i kommandoane <tt class="docutils literal">binopdf(x, n, p)</tt> og <tt class="docutils literal">binocdf(x, n, p)</tt> i <span class="caps">MATLAB</span>, og studentane skal sleppe å rekne ut alt dette for&nbsp;hand.</p>
+</div>
+
+            </div><!-- /.entry-content -->
+
+
+        </div><!-- /.eleven.columns -->
+
+<div class="three columns">
+
+  <h4>Sider</h4>
+
+  <ul>
+
+    <li ><a href="/pages/om-meg-no.html">Om&nbsp;meg</a></li>
+    <li ><a href="/pages/kvammeselvik.html">KvammeSelvik</a></li>
+  
+  <h4>Kategoriar</h4>
+  <ul class="blank">
+    <li><a href="/category/canvas-hvl.html">Canvas, HVL</a></li>
+    <li><a href="/category/den-norske-kyrkja.html">Den norske kyrkja</a></li>
+    <li><a href="/category/den-norske-kyrkja-kultur-kyrkjekor-luther-reformasjon-salmer.html">Den norske kyrkja, Kultur, Kyrkjekor, Luther, Reformasjon, Salmer</a></li>
+    <li><a href="/category/den-norske-kyrkja-kultur-luther-reformasjon.html">Den norske kyrkja, Kultur, Luther, Reformasjon</a></li>
+    <li><a href="/category/den-norske-kyrkja-kultur-luther-salmer.html">Den norske kyrkja, Kultur, Luther, Salmer</a></li>
+    <li><a href="/category/familie.html">Familie</a></li>
+    <li><a href="/category/hvl-statistikk-undervising.html">HVL, Statistikk, Undervising</a></li>
+    <li><a href="/category/misc.html">misc</a></li>
+    <li><a href="/category/ymse.html">Ymse</a></li>
+  </ul>
+
+
+
+
+
+</div> </div><!-- /.row -->
+
+
+</section>
+
+       </div><!-- /.row -->
+    </div><!-- /.container -->
+
+
+       <div class="container.nopad bg">
+
+    
+        <footer id="credits" class="row">
+          <div class="seven columns left-center">
+
+<!-- override this to add custom footer html -->                   <address id="about" class="vcard body">
+                    Laga i <a href="http://getpelican.com/">Pelican</a>, som bruker <a href="http://python.org">Python</a>. Bygger på <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a>.
+                    </address>
+          </div>
+
+
+          <div class="seven columns">
+            <div class="row">
+              <ul class="socbtns">
+
+
+
+
+
+              </ul>
+            </div>
+          </div>
+        </footer>
+
+    </div>
+
+
+  <script src="/theme/js/libs/jquery-1.9.1.min.js"></script>
+  <script src="/theme/js/libs/gumby.min.js"></script>
+  <script src="/theme/js/plugins.js"></script>
+</body>
+</html>
