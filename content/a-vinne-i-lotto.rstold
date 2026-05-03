@@ -23,7 +23,7 @@ Eg reknar først ut sannsynligheten for å vinne ein eller annan gevinst på ei 
 
 ``prekke = plotto(4,0)+plotto(5,0)+plotto(6,0)+plotto(6,1)+plotto(7,0)``
 
-Dette gir at $latex P(\\text{ein elller annan gevinst på ei rekke}) = 0,01822$
+Dette gir at $P(\\text{ein elller annan gevinst på ei rekke}) = 0,01822$
 
 Vinne minst ein gevinst på ti rekker
 ------------------------------------
