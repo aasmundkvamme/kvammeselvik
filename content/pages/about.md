@@ -2,6 +2,7 @@ author: Aasmund Kvamme
 date: 2025-05-03
 title: Om meg
 lang: no
+status: hidden
 
 
 # Tittel

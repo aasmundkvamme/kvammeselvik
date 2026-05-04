@@ -1,151 +1,151 @@
 Grendel-Ota
 ###########
 
-:date: 2023-03-14 14:19
-:author: Aasmund
+:date: 2026-05-04
+:author: Aasmund Kvamme
 :slug: grendel-ota
 :status: published
 
 | Beowulf Scylding var då på borga,
 | ljuve lyddrotten, langan tid,
-| 55 kjend av alt folket. (Faren var kvorven
+| **55** kjend av alt folket. (Faren var kvorven
 | herifrå or heimen). Han og fekk son:
 | Healfdene [#]_  høge. Herrevald han gjævt,
 | aldrug og otefus [#]_, øvde hjå Scyldingom.
 | Fire barn i rad føddest åt honom,
-| 60 vakna i verda: vigmannshovdingen
+| **60** vakna i verda: vigmannshovdingen
 | Heorogar, og Hrodgar, og Halga hin gode;
 | høyrde eg at . . . . . . [#]_ dronning,
 | heppeleg levde med hersterke Scilfing [#]_.
 | Hrodgar hadde hernadsheppe,
-| 65 vidgjeten vart han, viljugt honom
+| **65** vidgjeten vart han, viljugt honom
 | frendane fylgde, fylkingen vaks,
 | sveinar seg samla. Sidan han hugast
 | byde at byggje eit byggverk dei skulde,
 | munarleg mjødhall menn skulde yrkje,
-| 70 mætare enn mannsborna minnast det kunde.
+| **70** mætare enn mannsborna minnast det kunde.
 | Der vil han deile dyrgriper sine,
 | som Gud honom gav, med gamle og unge,
 | alle sine muner, utum mannsliv og folkevald [#]_.
 | Det eg veit at vidt over jorda
-| 75 mange folkeslag frette den boda
+| **75** mange folkeslag frette den boda
 | um fagre folkehallen. Fekk han og heppe
 | til snøgt å setje upp salen den høge,
 | hævaste hallen. Heort [#]_ han kalla det,
 | han som hadde herrevald vidt ikring.
-| 80 Lovnaden heldt han: ved lag og gjestebod
+| **80** Lovnaden heldt han: ved lag og gjestebod
 | ringar braut. Reis då hallen,
 | hornbreid og høg, herstormen venta,
-| leide logaro. [#]_ Ikkje lang tid var att
+| leide logar [#]_ Ikkje lang tid var att
 | fyrr frende-fiendskap førde til sverdhogg,
-| 85 valstorm vakna, våde det vart.
-| Men gasten«gasten» er Grendel. ylmdestDet er vanleg folketru at uvette og underjordiske mislikar alt ståk («Haugebonden» som klagar på at bonden ikkje «styrer drengene sine», so dei «stukar»). i utmark og myrker,
+| **85** valstorm vakna, våde det vart.
+| Men gasten [#]_ ylmdest [#]_ i utmark og myrker,
 | med hatig hug høyrde utolug
 | kvar dagen det dunde frå djerve lag
 | i høge hallen. Harpeklang [#]_ var der;
-| 90 søtt song skalden; segje han kunde [#]_
+| **90** søtt song skalden; segje han kunde [#]_
 | frumtid-fretnad um fyrste mannen,
 | song um skapar som skapte jorda,
 | bjarte vangen med båregjorda,
 | sigersæl sette sol og måne,
-| 95 lyfte til ljos deim for landbuemugen;
+| **95** lyfte til ljos deim for landbuemugen;
 | jordarkrinsen gjævt han prydde
 | med lavande lauv; liv han kveikte,
 | alle ætter han ytte livet.
 | Hirdmenn soleis herleg levde
-| 100 i gaman og glede, til gasten or helheim
+| **100** i gaman og glede, til gasten or helheim
 | fiendskap fremja, fælslege ugjerd.
-| Gruvlege gasten GrendelGrendel; namnet tyder «han som krasar», «mel sund». Sume har i Grendel-soga set ei myte. Grendel er vintergasten som tyner alt liv; Beowulf er då solkjempa som vinn på vintergasten. (Sjå fyreordet!). heitte,
+| Gruvlege gasten Grendel [#]_ heitte,
 | vavra i villmark, i våtmyrar budde,
 | fen og frostland. I fælslege tusseheim
-| 105 usæle mannen allstødt budde,
+| **105** usæle mannen allstødt budde,
 | heilt sidan Herren hadde han bannstøytt;
 | æveherren slik uferd gav
-| ætta åt Kain«ætta åt Kain» er alle troll og uvette (sjå 111 o. f.!). Dette er ei jødisk tru som gjenom kyrkjefedrane kom til dei germanske kristne i millomalderen., for Abel han slo;
+| ætta åt Kain [#]_, for Abel han slo;
 | fåtøk fagnad fekk han for verket,
-| 110 av mannheimen måtte han, meinstøytt av Herren.
+| **110** av mannheimen måtte han, meinstøytt av Herren.
 | Alle ufriskje ættar frå Kain:
 | havdraugar, haugalvar, hamstygge jotnar
-| gamle gigantar«gigantane»; den bibelske skapingssoga fortel um kjemper (gigantar), som vart tynte av storflaumen. som gudstrid reiste
+| gamle gigantar [#]_ som gudstrid reiste
 | lange tider. Han lønte deim slik.
 
 II.
 ~~~
 
-| 115 Då natta kom, gjekk han«han» er Grendel. å njosne
-| ruvne huset, koss Ring-denar«ring-denar». Ofte vert det lagt slike tilnemne til folkenamnet: ringdenar, spjotdenar, stridsdenar, heiders denar o. s. b., o. s. b.). hadde
-| budd seg til etter bjordrykkelaget«bjor» øl.;
+| **115** Då natta kom, gjekk han [#]_ å njosne
+| ruvne huset, koss Ring-denar [#]_ hadde
+| budd seg til etter bjordrykkelaget [#]_;
 | fann derinne fylkinghopen
 | sovande etter samdrykk, sorg dei ikkje kjende,
-| 120 ansa ikkje ufred, ottast ikkje naud.
+| **120** ansa ikkje ufred, ottast ikkje naud.
 | Hardstælt og hæken hirde han ikkje,
 | vill og våleg han valde or kvila
 | tretti tignar; tok deim so med seg;
 | heimatt han hasta, hua av glede;
-| 125 med helslegne hopen heimatt han ræste.
+| **125** med helslegne hopen heimatt han ræste.
 
 | Velkjend vart då i veike dagbleik
 | for kjempekarar krafta hans Grendel.
 | Vart etter veitsla vådeskrik stort,
 | mykje morgonståk. Mæte kongen,
-| 130 ovfræge æredrott, uglad sat,
+| **130** ovfræge æredrott, uglad sat,
 | talmdest og trega på tignar sine;
 | fælslege far etter fule gasten
 | fekk han skode. Skum vart striden,
 | leid og langdryg. Lang vart 'kje venting:
-| 135 næste natta på nyhøvt lag
+| **135** næste natta på nyhøvt lag
 | att kom ovtrollet. Udåd han gjorde,
 | mange manndrap, munde ei ræddast
 | herferd og herjing; hardsett var gasten.
 | Dei turvte take tryggare kvile,
-| 140 bu i bura«bura». Kanskje soverom attmed kongehallen. Eller mindre hus innanfor borgvollen., då berrsynte var
+| **140** bu i bura [#]_, då berrsynte var
 | tydelege teikn på trollet sitt hat,
 | sannspurd segn. Sidan dei heldt seg
 | løynde i livd for leide fiend.
 
 | So rikte og rådde og retten øydde
-| 145 ein imot alle, til aude stod
+| **145** ein imot alle, til aude stod
 | grepa garden i gamanlaus tid.
 | Våden varde i vintrar tolv;
 | Scylding-venen og skaren hans
 | syrgde sårt. Segn det gjekk,
-| 150 sorgfulle songar um svære nauda,
+| **150** sorgfulle songar um svære nauda,
 | mein og møde, mannheimen kring,
 | alt det som Grendel øvde mot Hrodgar.
 | Hat og hemngir, heluvs dåd
 | aldri tok ende i alle dei åra.
-| 155 Ikkje for eigner ende han vilde
+| **155** Ikkje for eigner ende han vilde
 | dråpsferd mot Denar; drottmenn ei venta seg
 | brisne bøter frå bloddrøypt mordar;
 | ubeistet allstødt øvde si mordgjerd;
 | døkke dråpsgasten dreiv med sitt løyndråp,
-| 160 på hirdmann og huskar hatig seg lurde;
+| **160** på hirdmann og huskar hatig seg lurde;
 | skumenatt sveipte inn skoddutte myrheim,
 | ingen evla ovre hans vegar,
 | der reika og ræste ryslege gasten.
 | Ufysne eingangar uverk gjorde,
-| 165 meinferd og mord mannhatar øvde,
+| **165** meinferd og mord mannhatar øvde,
 | hatig og hemnfus; heldt seg i Heorts
 | sylvbjarte sal i svarte næter.
 | Huta han var frå Herrens trune,
-| venskapsgåver, visste ei hans tankarDet er mange stridande meiningar um tydinga av desse linene..
+| venskapsgåver, visste ei hans tankar [#]_.
 
-| 170 Det var skume sorger for Scylding-venen
+| **170** Det var skume sorger for Scylding-venen
 | sjælesut sår. Sette dei visaste
 | rådsmenn rådlag, rådslo um hjelp,
 | rettaste råda for rauste menner
 | å nytte i nifse nauda deira.
-| 175 I horg og hov dei høgord feste,
+| **175** I horg og hov dei høgord feste,
 | offer ytte, og ordbøn gjorde,
-| sjæletynaren«Sjæletynaren» er djevelen, det var i røynda han dei bad til, meiner skalden, då dei hadde heidne gudar. tagg dei um bråhjelp
+| sjæletynaren [#]_ tagg dei um bråhjelp
 | mot denne folkenaud. Framleis dei hadde
 | heidne hugmål; helheim dei enno
-| 180 kom i hug, kjende ikkje skaparen
+| **180** kom i hug, kjende ikkje skaparen
 | dømande dåd, drotten, vår herre,
 | himmelhenen. Harm over alle
 | som stridsett mot Gud støyter si sjæl
 | i eld og logar, eig ikkje von,
-| 185 vinn inga vending! Vel vere deim
+| **185** vinn inga vending! Vel vere deim
 | som i faderfamnen fredstad seg bed.
 | hastar til Herren heim etter dauden!
 
@@ -154,17 +154,17 @@ III.
 
 | Harde hugsuta Healfdenesonen brende.
 | Kloke kjempa kunde ikkje hjelpe.
-| 190 Liding og leidsle vart langdryg og tung,
+| **190** Liding og leidsle vart langdryg og tung,
 | vonde våden velt på lyden,
 | nidsleg naudhemn, nattestrid fælsleg.
 
-| Gjetordet gjekk; gjævaste Geaten«gjævaste geaten» er Beowulf, som her vert umtala for fyrste gongen. Namnet hans kjem fyrst langt seinare (343). Geatane var etter den vanlegaste meining same folket som gavlane; dei budde i (Vest-) Gautland (Gøtarike) i Sud-Sverike. Likevel torer det vere vel so gode grunnar for den meininga at geatane var jydar, og at dei budde i Jylland (Fahlbeck, Bugge, Gering o. fl.).,
-| 195 HygelacsHygelac (gn. Hugleikr), kongen over geatane, var son til Hredel og soleis morbror til Beowulf, då far hans, Eggtheow, var gift med dotter til geatekongen Hredel. Hygelac hadde tvo brør, Herebeald og Hædcyn og ein son, Heardred. Han var gift med Hygd. Hygelac er heiltut sogefest. Han vert nemnd av Gregor av Tours (i Hist. Francorum), som kallar honom Chochilaicus og fortel um ei herjingsferd han gjorde til Frisland (millom 512 og 520). Han vann då fyrst stort herfang, men vart påteken og drepen av frankane og frisane fyrr han kom seg burt med det. Andre frankiske sogeskrifter fortel og um det same. Kvadet vårt nemner denne uhepne ferda hans Hygelac fleire stader (1202 o. f. 2201, 2354 o. f., 2913 o. f.) og på ein måte som samstavar med dei frankiske fråsegnene. Fyrr denne ferda hadde Hygelac mykje strid med swionane. hirdmann, harmverka frette.
+| Gjetordet gjekk; gjævaste Geaten [#]_,
+| **195** Hygelacs [#]_ hirdmann, harmverka frette.
 | Storætta, storvaksen, sterkast av alle
 | menn i mannheim munde han vere.
-| Han bad deim vøle bårehesten«bårehesten», skaldenemning på skipet.,
-| sagde han snøgt over svanevegen«svanevegen», skaldenemning på havet. vilde
-| 200 fare og finne fræge kongen;
+| Han bad deim vøle bårehesten [#]_,
+| sagde han snøgt over svanevegen [#]_ vilde
+| **200** fare og finne fræge kongen;
 | kjempekarar kunde han turve.
 | Frode«frod» = vis. «Frode frendar ferda rosa»; lenger ute (1994) segjer Hygelac at han på det sterkaste rådde ifrå denne ferda. frendar ferda rosa.
 | Kjær var kjempa for kynsmenn og vener,
@@ -1306,3 +1306,29 @@ XVIII.
 | so tidt det trefte han turvte hjelp.
 | drotten deira. Det var dugande tjod!
 
+.. rubric:: Fotnotar
+
+.. [#] **Healfdene** med tilnamnet «den høge». Namnet tyder «halvdene». Han er og kjend i nordiske kjeldeskrifter og heiter der Halfdanr (latinisera Haldanus). Han har tri søner: Heorogar (gn. Hjrgeirr), Hrodgar (gn. Hroarr, Roe) og Halga (gn. Helge).
+.. [#] **«otefus»** av *ote* = strid og *fus* = huga (på eitkvart).
+.. [#] **. . . .** Her er nokre ord uklåre i M. S. (manuskriptet), og tydinga er tvilsam. Sume meiner at «elan», som ein kan lese, er namnet på dottera at Healfdene og at ho (Elan) var gift med Ongentheow, konge hjå swionane. Andre meiner at «elan» er ein part av Onela (son åt Ongentheow), og at ei dotter til Healdene - som vi då ikkje veit namnet på - var gift med honom. Andre meiningar er og framsette.
+.. [#] **Scylfingar** er namnet på sveonane si kongsætt (gn. skilfingar).
+.. [#] **Folkevald** Det er nokor uvisse um tydinga av denne lina. Meininga tykkjst vere den at kongen ikkje kunde gjeve burt folket si odelsjord eller på eige andsvar ta livet åt nokon mann i folket.
+.. [#] **Heort** (eller Heorot) tyder beintfram «hjort». Hallen kallast vel so avdi det på kvar mønegavlen var sett ei pryde som minte um takkane på ein hjort. Hallen vert og seinare (82) sagd å vere «hornbreid» d. v. s. stor millom «horna». Danekongane budde i gamall tid i Hleidr (Leire) attmed Roskilde, ein handelsstad som etter danske segner Roe (Hrodgar) grunnlagde.
+.. [#] **leide logar** o. f. Desse linene tyder på at hallen seinare vart brend av fiendar, kanskje då Ingeld gjorde krigsferda si mot denane. (Sjå merknader til 1163 og 2023!). Ikkje lang tid var att
+.. [#] **«gasten»** er Grendel.
+.. [#] **ylmdest** Det er vanleg folketru at uvette og underjordiske mislikar alt ståk («Haugebonden» som klagar på at bonden ikkje «styrer drengene sine», so dei «stukar»).
+.. [#] **Harpeklang** Harpa var kjend og kjær millom dei gamle germanske folk, ikkje minst hjå angelsaksarane. Det ser ut til at skalden (ang. scop) sjølv spela på harpa til kvadet sitt (sjå 1063 o. f.).
+.. [#] **segje han kunde** o. f. Den bibelske skapingssoga ligg til grunn for denne bolken.
+.. [#] **Grendel** Grendel; namnet tyder «han som krasar», «mel sund». Sume har i Grendel-soga set ei myte. Grendel er vintergasten som tyner alt liv; Beowulf er då solkjempa som vinn på vintergasten. (Sjå fyreordet!).
+.. [#] **ætta åt Kain** «ætta åt Kain» er alle troll og uvette (sjå 111 o. f.!). Dette er ei jødisk tru som gjenom kyrkjefedrane kom til dei germanske kristne i millomalderen.
+.. [#] **«gigantane»**; den bibelske skapingssoga fortel um kjemper (gigantar), som vart tynte av storflaumen.
+.. [#] **«han»** er Grendel.
+.. [#] **«ring-denar»**. Ofte vert det lagt slike tilnemne til folkenamnet: ringdenar, spjotdenar, stridsdenar, heiders denar o. s. b., o. s. b.).
+.. [#] **«bjor»** øl.
+.. [#] **«bura»**. Kanskje soverom attmed kongehallen. Eller mindre hus innanfor borgvollen.
+.. [#] Det er mange stridande meiningar um tydinga av desse linene.
+.. [#] **«Sjæletynaren»** er djevelen, det var i røynda han dei bad til, meiner skalden, då dei hadde heidne gudar.
+.. [#] **«gjævaste geaten»** er Beowulf, som her vert umtala for fyrste gongen. Namnet hans kjem fyrst langt seinare (343). Geatane var etter den vanlegaste meining same folket som gavlane; dei budde i (Vest-) Gautland (Gøtarike) i Sud-Sverike. Likevel torer det vere vel so gode grunnar for den meininga at geatane var jydar, og at dei budde i Jylland (Fahlbeck, Bugge, Gering o. fl.).
+.. [#] **Hygelac** (gn. Hugleikr), kongen over geatane, var son til Hredel og soleis morbror til Beowulf, då far hans, Eggtheow, var gift med dotter til geatekongen Hredel. Hygelac hadde tvo brør, Herebeald og Hædcyn og ein son, Heardred. Han var gift med Hygd. Hygelac er heiltut sogefest. Han vert nemnd av Gregor av Tours (i Hist. Francorum), som kallar honom Chochilaicus og fortel um ei herjingsferd han gjorde til Frisland (millom 512 og 520). Han vann då fyrst stort herfang, men vart påteken og drepen av frankane og frisane fyrr han kom seg burt med det. Andre frankiske sogeskrifter fortel og um det same. Kvadet vårt nemner denne uhepne ferda hans Hygelac fleire stader (1202 o. f. 2201, 2354 o. f., 2913 o. f.) og på ein måte som samstavar med dei frankiske fråsegnene. Fyrr denne ferda hadde Hygelac mykje strid med swionane.
+.. [#] **«bårehesten»**, skaldenemning på skipet.
+.. [#]  **«svanevegen»**, skaldenemning på havet.
