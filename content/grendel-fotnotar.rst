@@ -1,6 +1,8 @@
 Fotnotar
 --------
 
+
+
 .. rubric:: Fotnotar
 
 .. [#] **Healfdene** med tilnamnet «den høge». Namnet tyder «halvdene». Han er og kjend i nordiske kjeldeskrifter og heiter der Halfdanr (latinisera Haldanus). Han har tri søner: Heorogar (gn. Hjrgeirr), Hrodgar (gn. Hroarr, Roe) og Halga (gn. Helge).

@@ -9,7 +9,7 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 LOCALE = 'C.utf8'
 # DEFAULT_LANG = 'en'
 
-THEME = '../pelican-themes/gum'
+# THEME = '../pelican-themes/gum'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

@@ -9,7 +9,7 @@ Sumaren 2023
 61 kommunar i fire landsdelar på åtte dagar.
 
 23. juni - St. Hans på Kallestad
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------
 
 Rett etter jobb starta vi mot det som etterkvart har blitt ein tradisjon: St. Hans på Høyvoll brygge i Stamnes, hjå Jarle og Åse Bjørg. Ikkje fullt så mange i år som vi kan vere, men ein veldig triveleg kveld. Og best av alt: vi kunne overnatte til dagen etter på Kallestad, utan å måtte tilbake til Bergen om natta for å gå på jobb.
 
