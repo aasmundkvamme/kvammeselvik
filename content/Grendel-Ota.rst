@@ -190,7 +190,7 @@ III.
 | Lagsmenn såg land framfyre seg,
 | bratte berg, brimnes dei skoda [#]_,
 | svadberg og sjønes; sjøferd var gjord,
-| utferd var enda«utferd var enda»; usemje um rette lesemåten.. Upp dei gjekk,
+| utferd var enda [#]_. Upp dei gjekk,
 | **225** Vederlyden«wederlyden» (av weder d.v.s.: storm, og leod d.v.s.: lyd, folk: «Stormlyden») er ei skaldenemning på geatane, som og ofte vert kalla wedergeatar eller berre weder. Heitte dei so avdi dei heldt til i eit ope, storm hardt land, Jylland? (Gering). på landet steig;
 | båten dei batt. Brynjene singla.
 | Gud dei gav godan takk
@@ -1335,3 +1335,4 @@ XVIII.
 .. [#] **«frod»** = vis. «Frode frendar ferda rosa»; lenger ute (1994) segjer Hygelac at han på det sterkaste rådde ifrå denne ferda.
 .. [#] **«heil såg dei varsla»**; ein annan lesemåte (Sedgefield) gjev tydinga: «dei helsa farvel».
 .. [#] **o. f. ** Denne skildringa av landet fell noko underleg, dersom det er Danmark som er Deneland. Det kan tenkjast at skalden åleine fær vere andsvarleg for skildringa, so det ikkje har so mykje på seg. Kanskje geatane tok land attmed «Stevns klint» og gjekk derifrå til Leire? So kunde det høve bra (Clark Hall o. a.).
+.. [#] **«utferd var enda»**; usemje um rette lesemåten.
