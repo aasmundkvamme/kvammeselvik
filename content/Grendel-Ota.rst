@@ -166,32 +166,32 @@ III.
 | sagde han snøgt over svanevegen [#]_ vilde
 | **200** fare og finne fræge kongen;
 | kjempekarar kunde han turve.
-| Frode«frod» = vis. «Frode frendar ferda rosa»; lenger ute (1994) segjer Hygelac at han på det sterkaste rådde ifrå denne ferda. frendar ferda rosa.
+| Frode [#]_ frendar ferda rosa.
 | Kjær var kjempa for kynsmenn og vener,
-| hugen hans dei kveikte, heil såg dei varsla«heil såg dei varsla»; ein annan lesemåte (Sedgefield) gjev tydinga: «dei helsa farvel»..
-| 205 Kjemper han kora, kunde seg velje
+| hugen hans dei kveikte, heil såg dei varsla [#]_.
+| **205** Kjemper han kora, kunde seg velje
 | gutar so gode som Geatar åtte,
 | fylgje han fann seg; femtan med honom
 | sveiv til sjøskipet. Sjøkunnig mann
 | leida lagde til landemerket.
 
-| 210 Tida skreid fram. Skipet låg på bylgja,
+| **210** Tida skreid fram. Skipet låg på bylgja,
 | båten ved berget. Brynjeklædde hermenn
 | borda båten. Bårer vogga,
 | straumar ved stranda. Stridsmenn bar,
 | skauv i skipsrom skinande griper,
-| 215 sterke stridsklæde. Støytte då mennene
+| **215** sterke stridsklæde. Støytte då mennene
 | båten på båra, burt dei trådde.
 
 | Bateleg bør over båra dei fekk,
 | skumande skipet skreid som ein fugl.
 | Nett den nemnde næste dagen
-| 220 stamnhøge skipet stogga si ferd.
+| **220** stamnhøge skipet stogga si ferd.
 | Lagsmenn såg land framfyre seg,
-| bratte berg, brimnes dei skodao. f. Denne skildringa av landet fell noko underleg, dersom det er Danmark som er Deneland. Det kan tenkjast at skalden åleine fær vere andsvarleg for skildringa, so det ikkje har so mykje på seg. Kanskje geatane tok land attmed «Stevns klint» og gjekk derifrå til Leire? So kunde det høve bra (Clark Hall o. a.).,
+| bratte berg, brimnes dei skoda [#]_,
 | svadberg og sjønes; sjøferd var gjord,
 | utferd var enda«utferd var enda»; usemje um rette lesemåten.. Upp dei gjekk,
-| 225 Vederlyden«wederlyden» (av weder d.v.s.: storm, og leod d.v.s.: lyd, folk: «Stormlyden») er ei skaldenemning på geatane, som og ofte vert kalla wedergeatar eller berre weder. Heitte dei so avdi dei heldt til i eit ope, storm hardt land, Jylland? (Gering). på landet steig;
+| **225** Vederlyden«wederlyden» (av weder d.v.s.: storm, og leod d.v.s.: lyd, folk: «Stormlyden») er ei skaldenemning på geatane, som og ofte vert kalla wedergeatar eller berre weder. Heitte dei so avdi dei heldt til i eit ope, storm hardt land, Jylland? (Gering). på landet steig;
 | båten dei batt. Brynjene singla.
 | Gud dei gav godan takk
 | at leida deim lagdest lett over sjø.
@@ -1331,4 +1331,7 @@ XVIII.
 .. [#] **«gjævaste geaten»** er Beowulf, som her vert umtala for fyrste gongen. Namnet hans kjem fyrst langt seinare (343). Geatane var etter den vanlegaste meining same folket som gavlane; dei budde i (Vest-) Gautland (Gøtarike) i Sud-Sverike. Likevel torer det vere vel so gode grunnar for den meininga at geatane var jydar, og at dei budde i Jylland (Fahlbeck, Bugge, Gering o. fl.).
 .. [#] **Hygelac** (gn. Hugleikr), kongen over geatane, var son til Hredel og soleis morbror til Beowulf, då far hans, Eggtheow, var gift med dotter til geatekongen Hredel. Hygelac hadde tvo brør, Herebeald og Hædcyn og ein son, Heardred. Han var gift med Hygd. Hygelac er heiltut sogefest. Han vert nemnd av Gregor av Tours (i Hist. Francorum), som kallar honom Chochilaicus og fortel um ei herjingsferd han gjorde til Frisland (millom 512 og 520). Han vann då fyrst stort herfang, men vart påteken og drepen av frankane og frisane fyrr han kom seg burt med det. Andre frankiske sogeskrifter fortel og um det same. Kvadet vårt nemner denne uhepne ferda hans Hygelac fleire stader (1202 o. f. 2201, 2354 o. f., 2913 o. f.) og på ein måte som samstavar med dei frankiske fråsegnene. Fyrr denne ferda hadde Hygelac mykje strid med swionane.
 .. [#] **«bårehesten»**, skaldenemning på skipet.
-.. [#]  **«svanevegen»**, skaldenemning på havet.
+.. [#] **«svanevegen»**, skaldenemning på havet.
+.. [#] **«frod»** = vis. «Frode frendar ferda rosa»; lenger ute (1994) segjer Hygelac at han på det sterkaste rådde ifrå denne ferda.
+.. [#] **«heil såg dei varsla»**; ein annan lesemåte (Sedgefield) gjev tydinga: «dei helsa farvel».
+.. [#] **o. f. ** Denne skildringa av landet fell noko underleg, dersom det er Danmark som er Deneland. Det kan tenkjast at skalden åleine fær vere andsvarleg for skildringa, so det ikkje har so mykje på seg. Kanskje geatane tok land attmed «Stevns klint» og gjekk derifrå til Leire? So kunde det høve bra (Clark Hall o. a.).
