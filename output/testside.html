@@ -37,7 +37,7 @@
               <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
              
               <ul class="columns">
-                <li><a href="/">Startsida</a></li>
+                <li><a href="/">Home</a></li>
 
                 <li><a href="/pages/kvammeselvik.html">KvammeSelvik</a></li>
 
@@ -65,17 +65,17 @@
               </address>
             </footer><!-- /.post-info -->
             <div class="entry-content">
-              <p>Dette er første avsnitt. Det inneheld <em>kursiv</em> og <strong>feit</strong> tekst. Det inneheld også <a class="reference external" href="/grendel-ota.html">ei lenke til</a>.</p>
+              <p>Dette er første avsnitt. Det inneheld <em>kursiv</em> og <strong>feit</strong> tekst. Det inneheld også <a class="reference external" href="{filename}Grendel-Ota.rst">ei lenke til</a>. Og ei fotnote <a class="footnote-reference" href="#footnote-1" id="footnote-reference-1">[1]</a> som eg er spent på..</p>
 <div class="section" id="kode">
 <h2>Kode</h2>
-<p>Her kjem litt&nbsp;kode:</p>
+<p>Her kjem litt kode:</p>
 <div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
     <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Hello, world!&quot;</span><span class="p">)</span>
 </pre></div>
 </div>
 <div class="section" id="matematikk">
 <h2>Matematikk</h2>
-<p>Her kjem litt&nbsp;matematikk:</p>
+<p>Her kjem litt matematikk:</p>
 <div class="math">
 \begin{equation*}
 E = mc^2
@@ -86,6 +86,13 @@ E = mc^2
 \int_a^b f(x) dx
 \end{equation*}
 </div>
+<p class="rubric">Fotnoter</p>
+<table class="docutils footnote" frame="void" id="footnote-1" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#footnote-reference-1">[1]</a></td><td>Litt spent på korleis den vert framstilt</td></tr>
+</tbody>
+</table>
 </div>
 <script type='text/javascript'>if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
@@ -156,13 +163,13 @@ E = mc^2
 
 <div class="three columns">
 
-  <h4>Sider</h4>
+  <h4>Pages</h4>
 
   <ul>
 
     <li ><a href="/pages/kvammeselvik.html">KvammeSelvik</a></li>
   
-  <h4>Kategoriar</h4>
+  <h4>Categories</h4>
   <ul class="blank">
     <li><a href="/category/canvas-hvl.html">Canvas, HVL</a></li>
     <li><a href="/category/den-norske-kyrkja.html">Den norske kyrkja</a></li>
@@ -195,7 +202,10 @@ E = mc^2
           <div class="seven columns left-center">
 
 <!-- override this to add custom footer html -->                   <address id="about" class="vcard body">
-                    Laga i <a href="http://getpelican.com/">Pelican</a>, som bruker <a href="http://python.org">Python</a>. Bygger på <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a>.
+                    Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                    which takes great advantage of <a href="http://python.org">Python</a>.
+                    <br />
+                    Based on the <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a>
                     </address>
           </div>
 
