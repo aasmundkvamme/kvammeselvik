@@ -191,33 +191,33 @@ III.
 | bratte berg, brimnes dei skoda [#]_,
 | svadberg og sjønes; sjøferd var gjord,
 | utferd var enda [#]_. Upp dei gjekk,
-| **225** Vederlyden«wederlyden» (av weder d.v.s.: storm, og leod d.v.s.: lyd, folk: «Stormlyden») er ei skaldenemning på geatane, som og ofte vert kalla wedergeatar eller berre weder. Heitte dei so avdi dei heldt til i eit ope, storm hardt land, Jylland? (Gering). på landet steig;
+| **225** Vederlyden [#]_. på landet steig;
 | båten dei batt. Brynjene singla.
 | Gud dei gav godan takk
 | at leida deim lagdest lett over sjø.
 
 | Høgt på havstrand ein hermann vakta
-| 230 sjøen for Scyldingom. Såg han no desse
+| **230** sjøen for Scyldingom. Såg han no desse
 | bere frå borde bjarte skjoldar,
 | blanke brynjer. Brått han forvitnast,
 | hugast å høyre kva hermenn det var.
 | Radt då reid Hrodgars tign
-| 235 mennene mot. Maktfull han då
+| ***235** mennene mot. Maktfull han då
 | spjotet svinga, spurde høgmælt:
 | «Kven er dé, kjemper i krigarbunad,
 | brynjebudde, som bratte kjølen
 | på våte vegen viker hit
 | 240 baust over båra? - Bar eg vaktskjold
-| ei stund ved stranda, stirde over SjøDesse linene er uheile i MS.,
+| ei stund ved stranda, stirde over Sjø [#]_,
 | havvakt heldt, so harde ransmenn
 | ikkje i uvakta opne landet
 | rovfuse ræser og riket øyder.
-| 245 Skjolddekte sellar so synbert kom
-| aldri forutan ord um landvist«ord um landvist»; nokor usemje um lesemåten.
+| **245** Skjolddekte sellar so synbert kom
+| aldri forutan ord um landvist [#]_
 | av Dene-drotten. Djervare hovding
 | snaudt eg såg, enn sverdprydde kjempa
 | der millom dykk. *Det* tykst eg sjå
-| 250 sjeldsynt mann syner seg her,
+| **250** sjeldsynt mann syner seg her,
 | vyrdeleg væpna. Vite eg må
 | ætt og odel; akte eg lyt
 | Denelandet; drenger på njosning
@@ -1336,3 +1336,6 @@ XVIII.
 .. [#] **«heil såg dei varsla»**; ein annan lesemåte (Sedgefield) gjev tydinga: «dei helsa farvel».
 .. [#] **o. f. ** Denne skildringa av landet fell noko underleg, dersom det er Danmark som er Deneland. Det kan tenkjast at skalden åleine fær vere andsvarleg for skildringa, so det ikkje har so mykje på seg. Kanskje geatane tok land attmed «Stevns klint» og gjekk derifrå til Leire? So kunde det høve bra (Clark Hall o. a.).
 .. [#] **«utferd var enda»**; usemje um rette lesemåten.
+.. [#] **«wederlyden»** (av weder d.v.s.: storm, og leod d.v.s.: lyd, folk: «Stormlyden») er ei skaldenemning på geatane, som og ofte vert kalla wedergeatar eller berre weder. Heitte dei so avdi dei heldt til i eit ope, storm hardt land, Jylland? (Gering)
+.. [#] Desse linene er uheile i MS.
+.. [#] **«ord um landvist»**; nokor usemje um lesemåten.
