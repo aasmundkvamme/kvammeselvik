@@ -1,12 +1,12 @@
 Testside
 ###########
 
-:date: 2026-05-04
+:date: 2026-05-07
 :author: Aasmund Kvamme
 :slug: testside
 :status: published
 
-Dette er første avsnitt. Det inneheld *kursiv* og **feit** tekst. Det inneheld også `ei lenke til <{filename}Grendel-Ota.rst>`_. Og ei fotnote [#]_ som eg er spent på. Og ei anna fotnote[ref]Her er den.[/ref] eg også er spent på. 
+Dette er første avsnitt. Det inneheld *kursiv* og **feit** tekst. Det inneheld også ei lenke til `ein artikkel om Lotto <{filename}a-vinne-i-lotto.md>`_. Og ei fotnote [#]_ som eg er spent på. Og ei anna fotnote Her er den. eg også er spent på. 
 
 
 Kode
@@ -32,4 +32,5 @@ Her kjem litt matematikk:
 
 
 .. rubric:: Fotnoter
+
 .. [#] Litt spent på korleis den vert framstilt

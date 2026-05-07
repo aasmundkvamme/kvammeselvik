@@ -6,7 +6,7 @@ PATH = "content"
 
 TIMEZONE = 'Europe/Rome'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
-LOCALE = 'C.utf8'
+# LOCALE = 'C.utf8'
 # DEFAULT_LANG = 'en'
 
 # THEME = '../pelican-themes/gum'
@@ -43,5 +43,5 @@ TYPOGRIFY = True
 SUMMARY_MAX_LENGTH = 25
 SUMMARY_MAX_PARAGRAPHS = 4
 PLUGINS = ['render_math',
-           'simple-footnotes'
+           'simple_footnotes'
     ]
