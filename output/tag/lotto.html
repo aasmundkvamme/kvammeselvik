@@ -1,180 +1,154 @@
 <!DOCTYPE html>
 <html lang="en">
-        <head>
-                        <meta charset="utf-8" />
-                        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-                        <meta name="generator" content="Pelican" />
-                        <title>KvammeSelvik - lotto</title>
-                        <link rel="stylesheet" href="/theme/css/main.css" />
-        </head>
+<head>
 
-        <body id="index" class="home">
-                <header id="banner" class="body">
-                        <h1><a href="/">KvammeSelvik</a></h1>
-                        <nav><ul>
-                                                <li><a href="/pages/kvammeselvik.html">KvammeSelvik</a></li>
-                                                <li><a href="/category/canvas-hvl.html">Canvas, HVL</a></li>
-                                                <li><a href="/category/den-norske-kyrkja.html">Den norske kyrkja</a></li>
-                                                <li><a href="/category/den-norske-kyrkja-kultur-kyrkjekor-luther-reformasjon-salmer.html">Den norske kyrkja, Kultur, Kyrkjekor, Luther, Reformasjon, Salmer</a></li>
-                                                <li><a href="/category/den-norske-kyrkja-kultur-luther-reformasjon.html">Den norske kyrkja, Kultur, Luther, Reformasjon</a></li>
-                                                <li><a href="/category/den-norske-kyrkja-kultur-luther-salmer.html">Den norske kyrkja, Kultur, Luther, Salmer</a></li>
-                                                <li><a href="/category/familie.html">Familie</a></li>
-                                                <li><a href="/category/hvl-statistikk-undervising.html">HVL, Statistikk, Undervising</a></li>
-                                                <li><a href="/category/misc.html">misc</a></li>
-                                                <li><a href="/category/ymse.html">Ymse</a></li>
-                        </ul></nav>
-                </header><!-- /#banner -->
+        <title>KvammeSelvik - lotto</title>
+        <meta charset="utf-8" />
 
-                <aside id="featured" class="body">
-                    <article>
-                        <h1 class="entry-title"><a href="/a-vinne-i-lotto.html">Å vinne i&nbsp;Lotto</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2021-02-10T21:53:00+01:00">
-                Published: 2021-02-10
-        </abbr>
 
-                <address class="vcard author">
-                        By                                 <a class="url fn" href="/author/aasmund.html">Aasmund</a>
-                </address>
-        <p>In <a href="/category/hvl-statistikk-undervising.html">HVL, Statistikk, Undervising</a>.</p>
-<p>tags: <a href="/tag/lotto.html">lotto</a> <a href="/tag/sannsynlighet.html">sannsynlighet</a> </p>        
-</footer><!-- /.post-info --><h2>Bakgrunn</h2>
-<p>Eg tippar Lotto fast kvar veke, og vinn av og til. I 2020 vant eg
-faktisk 13 av 52 veker, og synest dette var svært ofte. Ikkje store
-gevinstar; stort sett 50 kroner, så det var eit tapsprosjekt. Men eg
-vart interessert, og reknar her ut sannsynligheten for at eg skal vinne
-13 veker (eller fleire) i løpet av eit&nbsp;år.</p>
-<p>Premissane er altså: eg tippar ti ulike rekker kvar veke, 52 veker i
-året. På kvar rekke kan eg vinne ein av fem ulike gevinstar: 7 rette, 6
-rette og tilleggstal, 6 rette, 5 rette eller 4&nbsp;rette.</p>
-<p>Sidan dette er ein del av undervisinga i emnet &#34;Statistikk og
-landmåling&#34; ved Høgskulen på Vestlandet, så er alle utrekningar gjort i
-programmet <span class="caps">MATLAB</span>. Men om du vil kontrollere kjem formlane på&nbsp;slutten.</p>
-<h2>Vinne på ei&nbsp;rekke</h2>
-<p>Eg reknar først ut sannsynligheten for å vinne ein eller annan gevinst
-på ei rekke. Dette gjer eg ved ein heimesnekra <span class="caps">MATLAB</span>-funksjon
-<code>plotto(h, t)</code> der <code>h</code> er antal rette eg får blant &#34;hovedtala&#34;&nbsp;og <code>t</code>
-er antal rette eg får blant&nbsp;tilleggstala.</p>
-<p><code>prekke = plotto(4,0) + plotto(5,0) + plotto(6,0) + plotto(6,1) + plotto(7,0)</code></p>
-<p>Dette gir&nbsp;at <span class="math">\(P(\text{ein elller annan gevinst på ei rekke}) = 0,01822\)</span></p>
-<h2>Vinne minst ein gevinst på ti&nbsp;rekker</h2>
-<p>Så ser eg på sannsynligheten for å vinne på minst ei av dei ti rekkene
-kvar veke. Dette er eit <em>binomisk</em> forsøk,&nbsp;med <span class="math">\( n=10\)</span> og <span class="math">\(
-p = 0,01822\)</span> (altså&nbsp;variabelen <code>prekke</code>).&nbsp;La <span class="math">\(X\)</span> vere antal
-gevinstar på 10 rekker; eg skal då rekne&nbsp;ut <span class="math">\(
-P(X\geq1)=1-P(X=0)\)</span>:</p>
-<p><code>pveke = 1-binopdf(0,10,prekke)</code></p>
-<p>Som&nbsp;gir <span class="math">\( P(\text{minst ein gevinst ei veke})= 0,16796\)</span></p>
-<h2>Vinne minst 13 gevinstar på 52&nbsp;veker</h2>
-<p>Så det store spørsmålet: kva er sannsynligheten for å vinne i 13 eller
-fleire av dei 52 vekene? Dette er også eit binomisk forsøk,&nbsp;med <span class="math">\(
-n=52\)</span> og <span class="math">\( p=0,16796\)</span> (altså&nbsp;variabelen <code>pveke</code>). Eg skal rekne&nbsp;ut <span class="math">\( P(X\geq13)=1-P(X\leq12)\)</span>:</p>
-<p><code>paar = 1 - binocdf(12,52,pveke)</code></p>
-<p>som&nbsp;gir <span class="math">\( P(\text{vinne 13 eller fleire ganger på eit år})=
-0,085775\)</span></p>
-<p>Det er altså 8,5 % sannsynlighet for at eg skal vinne så mange ganger
-(eller fleire) i løpet av eit år. Er det stor eller liten sannsynlighet?
-Det er ganske&nbsp;nær <span class="math">\( 1/12\)</span>, så om du er i eit rom med 11 andre så
-kan du forvente at ein av dykk har vunnet så ofte. Døm&nbsp;sjølv!</p>
-<h2>Matematikken</h2>
-<p>Eg bruker standardformlar frå sannsynlighetsrekning og kombinatorikk.
-Den viktigaste byggesteinen er <em>binomialkoeffisienten</em></p>
-<p><span class="math">\( \displaystyle {{n}\choose{k}} = \frac{n!}{x!(n-x)!}\)</span>,&nbsp;der
-<span class="math">\( n! = n\cdot(n-1)\cdot(n-2)\cdots 3\cdot 2\cdot 1\)</span></p>
-<p>Til dømes&nbsp;er <span class="math">\( \displaystyle 4! = 4\cdot3\cdot2\cdot1=24\)</span>.</p>
-<p>Binomialkoeffisienten kan eg bruke til å rekne ut kor mange ulike måtar
-eg kan&nbsp;velje <span class="math">\( k\)</span> tal&nbsp;frå <span class="math">\( n\)</span> på. Til dømes vert då
-antalet&nbsp;Lotto-rekker</p>
-<p><span class="math">\( \displaystyle {{34}\choose{7}} = \frac{34!}{7!(27)!} =
-5\,379\,616\)</span>.</p>
-<p>Så er det den heimesnekra <span class="caps">MATLAB</span>-funksjonen <code>plotto(h, t)</code>. Den er bygd
-opp som ein <em>hypergeometrisk</em> sannsynlighet, der eg ser på antal
-&#8220;gunstige&#8221; kombinasjonar av <em>hovedtal</em>&nbsp;(<code>h</code>) og <em>tilleggstal</em>&nbsp;(<code>t</code>) eg
-har&nbsp;tippa:</p>
-<p><span class="math">\( P_{\text{lotto}}(h, t) =
-\displaystyle\frac{{{7}\choose{h}}\cdot{{1}\choose{t}}\cdot{{26}\choose{7-(h+t)}}}{{34}\choose{7}}\)</span></p>
-<p>Til slutt har eg nytta formelen for <em>punktsannsynlighet</em> i binomisk
-fordeling (med&nbsp;parametre <span class="math">\( n\)</span> og <span class="math">\( p\)</span>):</p>
-<p><span class="math">\( P(X=x) = {{n}\choose{x}}p^x(1-p)^{n-x}\)</span></p>
-<p>og formelen for <em>kumulativ sannsynlighet</em>:</p>
-<p><span class="math">\( P(X\leq x) = \sum_{k=0}^{x}
-{{n}\choose{x}}p^k(1-p)^{n-k}\)</span></p>
-<p>Men som sagt: alt dette ligg innebygd i&nbsp;kommandoane <code>binopdf(x, n, p)</code>
-og <code>binocdf(x, n, p)</code> i <span class="caps">MATLAB</span>, og studentane skal sleppe å rekne ut alt
-dette for&nbsp;hand.</p>
-<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
+        <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+        <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
 
-    if (false) {
-        align = (screen.width < 768) ? "left" : align;
-        indent = (screen.width < 768) ? "0em" : indent;
-        linebreak = (screen.width < 768) ? 'true' : linebreak;
-    }
+        <link rel="stylesheet" type="text/css" href="/theme/gumby.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/style.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/pygment.css" />
 
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
 
-    var configscript = document.createElement('script');
-    configscript.type = 'text/x-mathjax-config';
-    configscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        availableFonts: ['STIX', 'TeX']," +
-        "        preferredFont: 'STIX'," +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
+        <script src="/theme/js/libs/modernizr-2.6.2.min.js"></script>
 
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-</script>                    </article>
-                </aside><!-- /#featured -->
-                <section id="extras" class="body">
-                </section><!-- /#extras -->
 
-                <footer id="contentinfo" class="body">
-                        <address id="about" class="vcard body">
-                                Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
-                        </address><!-- /#about -->
 
-                        <p>The theme is by <a rel="nofollow" href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-                </footer><!-- /#contentinfo -->
 
-        </body>
+
+</head>
+
+<body id="index" class="home">
+
+
+    <div class="container">
+
+        <div class="row">
+
+          <header id="banner" class="body">
+                  <h1><a href="/">KvammeSelvik <strong></strong></a></h1>
+          </header><!-- /#banner -->
+
+            <div id="navigation" class="navbar row">
+              <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
+             
+              <ul class="columns">
+                <li><a href="/">Startsida</a></li>
+
+                <li><a href="/pages/kvammeselvik.html">KvammeSelvik</a></li>
+
+              </ul>
+            </div>
+
+<section id="content">
+
+
+
+   <div class="row">
+
+
+        <div class="eleven columns">
+                 <ol id="post-list">
+                        <li><article class="hentry">
+                                <header> <h2 class="entry-title"><a href="/a-vinne-i-lotto.html" rel="bookmark" title="Permalink to Å vinne i Lotto">Å vinne i&nbsp;Lotto</a></h2> </header>
+                                <footer class="post-info">
+                                    <abbr class="published" title="2021-02-10T21:53:00+01:00"> 2021-02-10 </abbr>
+                                    <address class="vcard author">By 
+                                    <a class="url fn" href="/author/aasmund.html"> Aasmund</a>
+                                    </address>
+                                </footer><!-- /.post-info -->
+                                <div class="entry-content"> <p>Eg tippar Lotto fast kvar veke, og vinn av og til. I 2020 vant eg
+faktisk 13 av 52 veker, og synest dette var svært …</p> </div><!-- /.entry-content -->
+
+                                <div class="medium primary btn"><a href="/a-vinne-i-lotto.html" rel="bookmark" title="Permalink to Å vinne i Lotto">Les meir <i class="icon-arrow-right"></i></a></div>
+
+
+
+                                <div class="row tag-row">
+                                        <span>Tagged as : </span>
+                                            <a class="danger label" href="/tag/lotto.html">lotto</a>
+                                            <a class="danger label" href="/tag/sannsynlighet.html">sannsynlighet</a>
+                                </div>
+
+
+
+                        </article></li>
+                </ol><!-- /#posts-list -->
+
+        </div><!-- /.eleven.columns -->
+        
+<div class="three columns">
+
+  <h4>Sider</h4>
+
+  <ul>
+
+    <li ><a href="/pages/kvammeselvik.html">KvammeSelvik</a></li>
+  
+  <h4>Kategoriar</h4>
+  <ul class="blank">
+    <li><a href="/category/canvas-hvl.html">Canvas, HVL</a></li>
+    <li><a href="/category/den-norske-kyrkja.html">Den norske kyrkja</a></li>
+    <li><a href="/category/den-norske-kyrkja-kultur-kyrkjekor-luther-reformasjon-salmer.html">Den norske kyrkja, Kultur, Kyrkjekor, Luther, Reformasjon, Salmer</a></li>
+    <li><a href="/category/den-norske-kyrkja-kultur-luther-reformasjon.html">Den norske kyrkja, Kultur, Luther, Reformasjon</a></li>
+    <li><a href="/category/den-norske-kyrkja-kultur-luther-salmer.html">Den norske kyrkja, Kultur, Luther, Salmer</a></li>
+    <li><a href="/category/familie.html">Familie</a></li>
+    <li><a href="/category/hvl-statistikk-undervising.html">HVL, Statistikk, Undervising</a></li>
+    <li><a href="/category/misc.html">misc</a></li>
+    <li><a href="/category/ymse.html">Ymse</a></li>
+  </ul>
+
+
+
+
+
+</div> </div><!-- /.row -->
+
+<p class="paginator">
+    Side 1 av 1
+</p>
+</section><!-- /#content -->
+
+       </div><!-- /.row -->
+    </div><!-- /.container -->
+
+
+       <div class="container.nopad bg">
+
+    
+        <footer id="credits" class="row">
+          <div class="seven columns left-center">
+
+<!-- override this to add custom footer html -->                   <address id="about" class="vcard body">
+                    Drevet av  <a href="http://getpelican.com/">Pelican</a>,
+                    som igjen bruker <a href="http://python.org">Python</a>.
+		    Basert på <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a>.
+                    </address>
+          </div>
+
+
+          <div class="seven columns">
+            <div class="row">
+              <ul class="socbtns">
+
+
+
+
+
+              </ul>
+            </div>
+          </div>
+        </footer>
+
+    </div>
+
+
+  <script src="/theme/js/libs/jquery-1.9.1.min.js"></script>
+  <script src="/theme/js/libs/gumby.min.js"></script>
+  <script src="/theme/js/plugins.js"></script>
+</body>
 </html>
