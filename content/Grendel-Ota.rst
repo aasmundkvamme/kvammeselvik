@@ -231,32 +231,32 @@ IV.
 
 | Hævaste herhovding honom svara,
 | let upp for ordskatten laget sin førar:
-| 260 «Alle eig vi ætt hjå Geate-lyden,
+| **260***** «Alle eig vi ætt hjå Geate-lyden,
 | Hygelacs hirdmenn høyrer vi til.
 | Fader min var folkekjend,
-| høgætta hovding heitte EggteowEggtheow, ang. skrivemåte Ecgþeow (gn. Eggþér), far til Beowulf, høyrde til geateætta wægmundingane. Han var gift med einaste dotter til geatekongen Hredel (374—75). Han drap wylfingen Headolaf og rømde til Denaland, der kong Hrodgar kjøpte honom grid med ei pengebot. (459 o. f.)..
+| høgætta hovding heitte Eggteow [#]_.
 | Lenge han levde, laut so vandre
-| 265 gamall av garden. Godt honom minnest
+| **265** gamall av garden. Godt honom minnest
 | vismenn vidt over verda kring.
 | Holle i hugen herren din,
 | Healfdene-sonen, vi hastar å finne.
 | Gjev oss no gagnråd! Åt Gjævingen vi
-| 270 ovstort ærend aktar å føre,
+| ***270** ovstort ærend aktar å føre,
 | åt Dene-drotten. Duldt skal ikkje
 | vere det eg vonar. Du veit um det er
 | slik som vi sannsagde segna frette:
 | vålege vette, eg veit ikkje kven,
-| 275 Scyldingom syner skræmeleg fiendskap,
+| **275** Scyldingom syner skræmeleg fiendskap,
 | dulde drapsmann i døkke næter
 | udåd øver. Eg kan Hrodgar
 | gagnråd gjeve av godan hug,
 | korleis han kan knekte den fienden,
-| 280 um no endeleg eingong skal
+| **280** um no endeleg eingong skal
 | råd imot rædsla raustleg kome,
 | svære sorgbårer svane kan,
 | eller han skal allstødt tole
 | tunge trengsla, den tid det står
-| 285 hævaste hus på høge vollar.»
+| **285** hævaste hus på høge vollar.»
 
 | Høgt svara havvakt, på hesten han sat
 | urædde umbodsmann: «Allvisst skal
@@ -276,10 +276,10 @@ IV.
 
 | Dei steig på stigen. Snill låg skuta,
 | bunden med banda breidhuka skip,
-| velfest ved ankeret. Villsvinlikan«villsvinlikan» (likan = «skikkelse», «figur») på hjelmane. Slike villsvinpryde på hjelmane vert ofte nemnde i angelsaksiske kvad og kan og ettervisast hjå andre germanske folk. Villsvinet var vigd til guden Frey. skein.
+| velfest ved ankeret. Villsvinlikan [#]_ skein.
 | sterke skallevern stråla av gull,
 | 305 glimande, gloherde, gav åt stridshuga
-| lyden livvernNokon strid um lesemåten i 303-306.. Leida dei fylgde
+| lyden livvern [#]_. Leida dei fylgde
 | saman på vegen, til salen dei timde,
 | glimande globjart, gull-lagd dei såg,
 | vidgjete mest av verk på jorda,
@@ -1339,3 +1339,18 @@ XVIII.
 .. [#] **«wederlyden»** (av weder d.v.s.: storm, og leod d.v.s.: lyd, folk: «Stormlyden») er ei skaldenemning på geatane, som og ofte vert kalla wedergeatar eller berre weder. Heitte dei so avdi dei heldt til i eit ope, storm hardt land, Jylland? (Gering)
 .. [#] Desse linene er uheile i MS.
 .. [#] **«ord um landvist»**; nokor usemje um lesemåten.
+.. [#] **Eggtheow**, ang. skrivemåte Ecgþeow (gn. Eggþér), far til Beowulf, høyrde til geateætta wægmundingane. Han var gift med einaste dotter til geatekongen Hredel (374—75). Han drap wylfingen Headolaf og rømde til Denaland, der kong Hrodgar kjøpte honom grid med ei pengebot. (459 o. f.).
+.. [#] **«villsvinlikan»** (likan = «skikkelse», «figur») på hjelmane. Slike villsvinpryde på hjelmane vert ofte nemnde i angelsaksiske kvad og kan og ettervisast hjå andre germanske folk. Villsvinet var vigd til guden Frey.
+.. [#] Nokon strid um lesemåten i 303-306.
+
+
+
+
+
+
+
+
+
+
+
+
