@@ -304,15 +304,15 @@ V.
 | Det song i slagtham då fram mot salen
 | stridsklædde dei steig etter vegen.
 | 325 Sjøtrøytte sette skjoldar breide,
-| vigfaste«vigfaste» = faste (som ikkje brotna) i strid. I teksta står «regnfaste» (regnhearde); det er «pileregnen» som meinest (cfr. scurhearde = hard, fast mot pile«skura»). verjer, mot veggen til huset,
+| vigfaste [#]_ verjer, mot veggen til huset,
 | sette seg på setet. Då singla brynjer,
 | våpna til vigmenn. Valspjot i hop,
 | oddgråe askeskaft, over deim stod,
 | 330 stridsham åt sjømenn. Stålhopen hadde
-| vyrdande våpn. Då vart av kjempa«kjempa», som held vakt ved døra i Heort, heitte Wulfgar (gn. Ulfgeirr). Han var ein hovding av Wendlarfolket og hadde teke hirdrom hjå Hrodgar. Det er ymse meiningar um kva folk wendlane var og kvar dei budde. Det er peikt på vandalane (Bugge, Miillenhof), at dei budde i Vendill, det noverande Vendsyssel i Nord-Jylland (Møller, Sarrazin). eller i Vendel i Upland, Sverike (Stjärna).,
+| vyrdande våpn. Då vart av kjempa [#]_,
 | kjend for krafta si, komemenn spurde;
 | «Kvarifrå kjem dé med krota skjoldar,
-| gråe serker«gråe serken» er brynjer av stål; dei er stålgrå». «grimebudde hjelmar»; hjelmar med «grime», eit slag maske som varde for andletet., grimebudde hjelmar,
+| gråe serker [#]_, grimebudde hjelmar,
 | 335 oddkvasse spjothaug? Eg er Hrodgars
 | ærendsvein, umbodsmann. Aldri såg eg framande
 | menner som meir mod tyktest have.
@@ -320,9 +320,9 @@ V.
 | ikkje utlæg', men æruge, hugprude.»
 
 | 340 Segnfræge hovdingen svara då honom,
-| Vederfolk-kjempa«wederfolk-kjempa» er Beowulf (wederfolket er geatane). kvad desse orda,
+| Vederfolk-kjempa [#]_ kvad desse orda,
 | hard under hovudhjelm: «Vi er Hygelacs
-| bordfelagar«Hygelacs bordfelagar»; Hygelacs hirdmenn; dei sat ved hans bord, var «i hans brød», hans teneste.. Beowulf eg nemnest.
+| bordfelagar [#]_. Beowulf eg nemnest.
 | Eg vil segje sonen åt Healfdene,
 | 345 ordgjetne kjempa, ærendet mitt,
 | herren din, um han oss hugleg unner
@@ -330,7 +330,7 @@ V.
 | Wulfgar, Wendla-hovding, vidkjend for stridsmod
 | mannamillom, for mannvit og djervskap,
 | 350 svara og sagde: «So vil eg frege
-| rauste ringbrytar, rike«rik»; ordet er her (og andre stader) nytta i den upphavlege tydinga: mektig. Scyldingen,
+| rauste ringbrytar, rike [#]_ Scyldingen,
 | Dene-drotten, um det du bed,
 | vidgjetne kongen koma di segje.
 | Svar eg då snøggast segje deg skal,
@@ -339,7 +339,7 @@ V.
 | gamall og grå med sitt gode fylgje.
 | Gjævingen gjekk til gjegnt for okslom
 | åt Dene-drotten; drottsed han kjende,
-| 360 Dette til dyre«dyr», her (o. a. st.) = kjær. drotten han tala:
+| 360 Dette til dyre [#]_ drotten han tala:
 | «Hit over havet hermenn er komne,
 | gjester av gjæve Geate-folket.
 | Hævast i herflokken hovdingen namnet
@@ -1342,13 +1342,13 @@ XVIII.
 .. [#] **Eggtheow**, ang. skrivemåte Ecgþeow (gn. Eggþér), far til Beowulf, høyrde til geateætta wægmundingane. Han var gift med einaste dotter til geatekongen Hredel (374—75). Han drap wylfingen Headolaf og rømde til Denaland, der kong Hrodgar kjøpte honom grid med ei pengebot. (459 o. f.).
 .. [#] **«villsvinlikan»** (likan = «skikkelse», «figur») på hjelmane. Slike villsvinpryde på hjelmane vert ofte nemnde i angelsaksiske kvad og kan og ettervisast hjå andre germanske folk. Villsvinet var vigd til guden Frey.
 .. [#] Nokon strid um lesemåten i 303-306.
-
-
-
-
-
-
-
+.. [#] **«vigfaste»** = faste (som ikkje brotna) i strid. I teksta står «regnfaste» (regnhearde); det er «pileregnen» som meinest (cfr. scurhearde = hard, fast mot pile«skura»).
+.. [#] **«kjempa»**, som held vakt ved døra i Heort, heitte Wulfgar (gn. Ulfgeirr). Han var ein hovding av Wendlarfolket og hadde teke hirdrom hjå Hrodgar. Det er ymse meiningar um kva folk wendlane var og kvar dei budde. Det er peikt på vandalane (Bugge, Miillenhof), at dei budde i Vendill, det noverande Vendsyssel i Nord-Jylland (Møller, Sarrazin). eller i Vendel i Upland, Sverike (Stjärna).
+.. [#] **«gråe serken»** er brynjer av stål; dei er stålgrå». «grimebudde hjelmar»; hjelmar med «grime», eit slag maske som varde for andletet.
+.. [#] **«wederfolk-kjempa»** er Beowulf (wederfolket er geatane).
+.. [#] **«Hygelacs bordfelagar»**; Hygelacs hirdmenn; dei sat ved hans bord, var «i hans brød», hans teneste.
+.. [#] **«rik»**; ordet er her (og andre stader) nytta i den upphavlege tydinga: mektig.
+.. [#] **«dyr»**, her (o. a. st.) = kjær.
 
 
 
