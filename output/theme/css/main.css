@@ -103,7 +103,7 @@ dl {margin: 0 0 1.5em 0;}
 dt {font-weight: bold;}
 dd {margin-left: 1.5em;}
 
-pre{background-color: #CDE9E2; padding: 10px; color: #fff; margin: 10px; overflow: auto;}
+pre{background-color: #000; padding: 10px; color: #fff; margin: 10px; overflow: auto;}
 
 /* Quotes */
 blockquote {
@@ -167,7 +167,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #CF91C1;
+		color: #C74350;
 		text-shadow: none;
 	}
 	
@@ -175,7 +175,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	
 	/* Main Nav */
 	#banner nav {
-		background: #CF9F91;
+		background: #000305;
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
@@ -200,7 +200,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
-		background: #CF91C1;
+		background: #C74451;
 		color: #fff;
 		text-shadow: none !important;
 	}
