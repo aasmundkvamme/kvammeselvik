@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/posts/helloworld/</link>
 				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/helloworld/</guid>
-				<description>&lt;p&gt;My first Hugo blog post.&lt;/p&gt;</description>
+				<description>&lt;p&gt;My first Hugo blog post.&#xA;Det ser bra ut hittil.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
