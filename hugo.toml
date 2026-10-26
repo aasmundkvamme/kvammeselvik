@@ -1,0 +1,17 @@
+baseURL = "https://aasmundkvamme.github.io/"
+locale = "en-us"
+title = "Kvamme/Selvik"
+theme = "beautifulhugo"
+
+enableRobotsTXT = true
+
+[params]
+  subtitle = "Thoughts, notes and projects"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    style = "monokai"
