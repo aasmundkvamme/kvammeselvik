@@ -3,15 +3,16 @@ locale = "en-us"
 title = "Kvamme/Selvik"
 theme = "beautifulhugo"
 
-enableRobotsTXT = true
 
 [params]
-  subtitle = "Thoughts, notes and projects"
+  subtitle = "Livet i familien Kvamme/Selvik, kanskje mest Aasmund"
+  
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
 
-  [markup.highlight]
-    style = "monokai"
+
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    block = [['\[', '\]'], ['$$', '$$']]
+    inline = [['\(', '\)']]
+
