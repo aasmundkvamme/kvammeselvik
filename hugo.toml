@@ -3,9 +3,21 @@ locale = "en-us"
 title = "Kvamme/Selvik"
 theme = "beautifulhugo"
 
-
+[frontmatter]
+  lastmod = [":git", "lastmod", "date"]
+  
 [params]
   subtitle = "Livet i familien Kvamme/Selvik, kanskje mest Aasmund"
+  dateFormat = "2006-01-02"
+  wordcount = true
+  enableGitInfo = true
+
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.parser.attribute]
+  block = true
   
 
 

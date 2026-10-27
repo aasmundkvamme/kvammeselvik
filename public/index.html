@@ -228,11 +228,17 @@
   
   
   
-    <i class="fas fa-calendar"></i>&nbsp;Posted on October 26, 2026
+    <i class="fas fa-calendar"></i>&nbsp;Posted on 2026-10-26
     
     
   
   
+  
+    
+      &nbsp;|&nbsp;
+    
+    <i class="fas fa-book"></i>&nbsp;121&nbsp;words
+    
   
   
     
@@ -251,7 +257,33 @@
             
             <p>My first Hugo blog post.
 Det ser bra ut hittil.</p>
-
+<p>Men datoen vert ikkje rett? Det har med kvar parametrane vert plassert i <code>.toml</code>-fila.</p>
+<p>Her er litt kode, og det ser jo fint ut:
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">quicksort</span><span class="p">(</span><span class="n">arr</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">arr</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="n">arr</span>
+</span></span><span class="line"><span class="cl">    <span class="n">pivot</span> <span class="o">=</span> <span class="n">arr</span><span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">arr</span><span class="p">)</span> <span class="o">//</span> <span class="mi">2</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">left</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">arr</span> <span class="k">if</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="n">pivot</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">middle</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">arr</span> <span class="k">if</span> <span class="n">x</span> <span class="o">==</span> <span class="n">pivot</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">right</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">arr</span> <span class="k">if</span> <span class="n">x</span> <span class="o">&gt;</span> <span class="n">pivot</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">quicksort</span><span class="p">(</span><span class="n">left</span><span class="p">)</span> <span class="o">+</span> <span class="n">middle</span> <span class="o">+</span> <span class="n">quicksort</span><span class="p">(</span><span class="n">right</span><span class="p">)</span></span></span></code></pre></td></tr></table>
+</div>
+</div>
+Kodeblokken får ikonet &ldquo;kopier meg!&rdquo; når du peiker på det.
+Klarer den matematikk også? \(\sqrt{x^2+3}\) er inne i teksten, medan </p>
+            <a href="/kvammeselvik/posts/helloworld/" class="post-read-more">[Read More]</a>
             
         </div>
     </div>

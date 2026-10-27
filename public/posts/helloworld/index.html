@@ -26,7 +26,33 @@
   <title>Hello World - Kvamme/Selvik</title>
 
   <meta name="description" content="My first Hugo blog post.
-Det ser bra ut hittil.">
+Det ser bra ut hittil.
+Men datoen vert ikkje rett? Det har med kvar parametrane vert plassert i .toml-fila.
+Her er litt kode, og det ser jo fint ut:
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+
+def quicksort(arr):
+    if len(arr) &lt;= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x &lt; pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x &gt; pivot]
+    return quicksort(left) &#43; middle &#43; quicksort(right)
+
+
+Kodeblokken får ikonet &ldquo;kopier meg!&rdquo; når du peiker på det.
+Klarer den matematikk også? \(\sqrt{x^2&#43;3}\) er inne i teksten, medan ">
 
 
 
@@ -95,7 +121,7 @@ Det ser bra ut hittil.">
       "dateCreated": "2026-10-26T00:00:00+00:00",
       "dateModified": "2026-10-26T00:00:00+00:00",
       "datePublished": "2026-10-26T00:00:00+00:00",
-      "description": "My first Hugo blog post. Det ser bra ut hittil.\n",
+      "description": "My first Hugo blog post. Det ser bra ut hittil.\nMen datoen vert ikkje rett? Det har med kvar parametrane vert plassert i .toml-fila.\nHer er litt kode, og det ser jo fint ut: 1 2 3 4 5 6 7 8 def quicksort(arr): if len(arr) \u003c= 1: return arr pivot = arr[len(arr) // 2] left = [x for x in arr if x \u003c pivot] middle = [x for x in arr if x == pivot] right = [x for x in arr if x \u003e pivot] return quicksort(left) + middle + quicksort(right) Kodeblokken får ikonet “kopier meg!” når du peiker på det. Klarer den matematikk også? \\(\\sqrt{x^2+3}\\) er inne i teksten, medan ",
       "headline": "Hello World",
       "inLanguage": "en",
       "keywords": [],
@@ -105,7 +131,7 @@ Det ser bra ut hittil.">
       "publisher": {
         "@id": "http://localhost:1313/kvammeselvik/#organization"
       },
-      "wordCount": 10
+      "wordCount": 121
     }
   ]
 }
@@ -113,7 +139,9 @@ Det ser bra ut hittil.">
 <meta property="og:url" content="http://localhost:1313/kvammeselvik/posts/helloworld/">
 	<meta property="og:site_name" content="Kvamme/Selvik">
 	<meta property="og:title" content="Hello World">
-	<meta property="og:description" content="My first Hugo blog post. Det ser bra ut hittil.">
+	<meta property="og:description" content="My first Hugo blog post. Det ser bra ut hittil.
+Men datoen vert ikkje rett? Det har med kvar parametrane vert plassert i .toml-fila.
+Her er litt kode, og det ser jo fint ut: 1 2 3 4 5 6 7 8 def quicksort(arr): if len(arr) &lt;= 1: return arr pivot = arr[len(arr) // 2] left = [x for x in arr if x &lt; pivot] middle = [x for x in arr if x == pivot] right = [x for x in arr if x &gt; pivot] return quicksort(left) &#43; middle &#43; quicksort(right) Kodeblokken får ikonet “kopier meg!” når du peiker på det. Klarer den matematikk også? \(\sqrt{x^2&#43;3}\) er inne i teksten, medan">
 	<meta property="og:locale" content="en_us">
 	<meta property="og:type" content="article">
 		<meta property="article:section" content="posts">
@@ -122,13 +150,29 @@ Det ser bra ut hittil.">
 <link rel="canonical" href="http://localhost:1313/kvammeselvik/posts/helloworld/" />
   <meta name="twitter:title" content="Hello World" />
   <meta name="twitter:description" content="My first Hugo blog post.
-Det ser bra ut hittil.">
+Det ser bra ut hittil.
+Men datoen vert ikkje rett? Det har med kvar parametrane vert plassert i .toml-fila.
+Her er litt kode, og det ser jo fint ut:
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+
+def …">
   <meta name="twitter:card" content="summary_large_image" />
 
 <meta name="generator" content="Hugo 0.168.0">
 <link rel="alternate" href="/kvammeselvik/index.xml" type="application/rss+xml" title="Kvamme/Selvik">
 
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.45/dist/katex.min.css" integrity="sha384-UA8juhPf75SzzAMA/4fo3yOU7sBJ0om7SCD2GHq0fZqZco6tr1UCV7nUbk9J90JM" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.2.0/css/all.css" integrity="sha384-EXatlQyrOJgDaM9/a74ArMzy7/2bTMSrZj8ID1IPeVmc3GncfCugefCFWSLj8JL/" crossorigin="anonymous">
   
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8&#43;LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
@@ -235,11 +279,17 @@ Det ser bra ut hittil.">
   
   
   
-    <i class="fas fa-calendar"></i>&nbsp;Posted on October 26, 2026
+    <i class="fas fa-calendar"></i>&nbsp;Posted on 2026-10-26
     
     
   
   
+  
+    
+      &nbsp;|&nbsp;
+    
+    <i class="fas fa-book"></i>&nbsp;121&nbsp;words
+    
   
   
     
@@ -274,6 +324,33 @@ Det ser bra ut hittil.">
           
           <p>My first Hugo blog post.
 Det ser bra ut hittil.</p>
+<p>Men datoen vert ikkje rett? Det har med kvar parametrane vert plassert i <code>.toml</code>-fila.</p>
+<p>Her er litt kode, og det ser jo fint ut:
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">quicksort</span><span class="p">(</span><span class="n">arr</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">arr</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="n">arr</span>
+</span></span><span class="line"><span class="cl">    <span class="n">pivot</span> <span class="o">=</span> <span class="n">arr</span><span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">arr</span><span class="p">)</span> <span class="o">//</span> <span class="mi">2</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">left</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">arr</span> <span class="k">if</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="n">pivot</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">middle</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">arr</span> <span class="k">if</span> <span class="n">x</span> <span class="o">==</span> <span class="n">pivot</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">right</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">arr</span> <span class="k">if</span> <span class="n">x</span> <span class="o">&gt;</span> <span class="n">pivot</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">quicksort</span><span class="p">(</span><span class="n">left</span><span class="p">)</span> <span class="o">+</span> <span class="n">middle</span> <span class="o">+</span> <span class="n">quicksort</span><span class="p">(</span><span class="n">right</span><span class="p">)</span></span></span></code></pre></td></tr></table>
+</div>
+</div>
+Kodeblokken får ikonet &ldquo;kopier meg!&rdquo; når du peiker på det.
+Klarer den matematikk også? \(\sqrt{x^2+3}\) er inne i teksten, medan </p>
+$$\int_{x=0}^{x=\pi}e^{x^2-3}dx$$<p> er mellom to linjer med tekst.</p>
 
           
           
@@ -391,6 +468,10 @@ Det ser bra ut hittil.</p>
       
 
       
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.45/dist/katex.min.js" integrity="sha384-Tt7wBxLKwSzFVRET4O4U9H6v8MNaQ/CjN2FMP4xFm0ErrFu6aNqoonRVW5W40iGI" crossorigin="anonymous"></script>
+
+<script defer onload="renderMathInElement(document.body);" src="https://cdn.jsdelivr.net/npm/katex@0.16.45/dist/contrib/auto-render.min.js" integrity="sha384-bjyGPfbij8/NDKJhSGZNP/khQVgtHUE5exjm4Ydllo42FwIgYsdLO2lXGmRBf5Mz" crossorigin="anonymous"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM&#43;D2scQbITxI" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js" integrity="sha384-k8EKyYcONphQ7zH4cQ0888JapXwrLTXQl/Ue1/jYgjVYahln1NWpnt2S4IC56LNh" crossorigin="anonymous"></script>
