@@ -3,19 +3,14 @@ locale = "nn"
 title = "Kvamme/Selvik"
 theme = "beautifulhugo"
 
+[frontmatter]
+  lastmod = [":git", "lastmod", "date"]
+  
 [params]
   subtitle = "Livet i familien Kvamme/Selvik, kanskje mest Aasmund"
   dateFormat = "2006-01-02"
-  wordCount = true
-  readingTime = true
+  wordcount = true
   enableGitInfo = true
-
-#[frontmatter]
-#  lastmod = [":git", "lastmod", "date"]
-
-[Params.author]
-  name = "Aasmund Kvamme"
-  email = "aasmund.kvamme@proton.me"
 
 
 [markup.highlight]
@@ -23,6 +18,9 @@ theme = "beautifulhugo"
 
 [markup.goldmark.parser.attribute]
   block = true
+  
+
+
 
 [markup.goldmark.extensions.passthrough]
   enable = true
