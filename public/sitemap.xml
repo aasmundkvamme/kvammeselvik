@@ -5,11 +5,16 @@
     <loc>http://localhost:1313/kvammeselvik/posts/helloworld/</loc>
     <lastmod>2026-10-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/kvammeselvik/posts/windowstilmac/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/kvammeselvik/posts/</loc>
     <lastmod>2026-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/kvammeselvik/</loc>
     <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kvammeselvik/posts/test/</loc>
   </url><url>
     <loc>http://localhost:1313/kvammeselvik/categories/</loc>
   </url><url>

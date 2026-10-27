@@ -17,6 +17,7 @@ theme = "beautifulhugo"
 
 [markup.highlight]
   noClasses = false
+  style = "monokai"
 
 [markup.goldmark.parser.attribute]
   block = true

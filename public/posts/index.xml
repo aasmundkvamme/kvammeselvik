@@ -24,5 +24,19 @@
 				<guid>http://localhost:1313/kvammeselvik/posts/helloworld/</guid>
 				<description>&lt;p&gt;Av ulike grunnar måtte eg få ny PC på jobb. Og då kom ein god kollega med den gode ideen at eg skulle få ein MacBook Pro, og bruke den mellom anna for å køyre store språkmodellar lokalt. Det er mykje data i Canvas som er gult (ikkje med vilje, men av di studentar skriv litt mykje om seg sjølv innimellom), og til tider svakt raudt, så det kan vere greitt å ikkje spre slikt for alle vindar. Og det er også greitt å bygge opp kompetansen på å jobbe mot språkmodellane.&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Frå Windows til Mac</title>
+				<link>http://localhost:1313/kvammeselvik/posts/windowstilmac/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
+				<guid>http://localhost:1313/kvammeselvik/posts/windowstilmac/</guid>
+				<description>&lt;p&gt;Av ulike grunnar måtte eg få ny PC på jobb. Og då kom ein god kollega med den gode ideen at eg skulle få ein MacBook Pro, og bruke den mellom anna for å køyre store språkmodellar lokalt. Det er mykje data i Canvas som er gult (ikkje med vilje, men av di studentar skriv litt mykje om seg sjølv innimellom), og til tider svakt raudt, så det kan vere greitt å ikkje spre slikt for alle vindar. Og det er også greitt å bygge opp kompetansen på å jobbe mot språkmodellane.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/kvammeselvik/posts/test/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
+				<guid>http://localhost:1313/kvammeselvik/posts/test/</guid>
+				<description>&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;&#xA;&lt;p&gt;Dette er ein &lt;em&gt;test&lt;/em&gt;  på kor &lt;strong&gt;lett&lt;/strong&gt; det er å skrive i org-mode. Eg ,å rett nok omsetje til Markdown før eg kan sende den til Hugo.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

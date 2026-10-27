@@ -14,14 +14,21 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/kvammeselvik/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Testside</title>
+				<link>http://localhost:1313/kvammeselvik/posts/test/</link>
+				<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
+				<guid>http://localhost:1313/kvammeselvik/posts/test/</guid>
+				<description>&lt;p&gt;Kode:&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Frå Windows til Mac</title>
-				<link>http://localhost:1313/kvammeselvik/posts/helloworld/</link>
+				<link>http://localhost:1313/kvammeselvik/posts/windowstilmac/</link>
 				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
-				<guid>http://localhost:1313/kvammeselvik/posts/helloworld/</guid>
+				<guid>http://localhost:1313/kvammeselvik/posts/windowstilmac/</guid>
 				<description>&lt;p&gt;Av ulike grunnar måtte eg få ny PC på jobb. Og då kom ein god kollega med den gode ideen at eg skulle få ein MacBook Pro, og bruke den mellom anna for å køyre store språkmodellar lokalt. Det er mykje data i Canvas som er gult (ikkje med vilje, men av di studentar skriv litt mykje om seg sjølv innimellom), og til tider svakt raudt, så det kan vere greitt å ikkje spre slikt for alle vindar. Og det er også greitt å bygge opp kompetansen på å jobbe mot språkmodellane.&lt;/p&gt;</description>
 			</item>
 	</channel>
