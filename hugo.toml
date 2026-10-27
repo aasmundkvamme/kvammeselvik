@@ -1,5 +1,5 @@
 baseURL = "https://aasmundkvamme.github.io/kvammeselvik/"
-locale = "en-us"
+locale = "nn"
 title = "Kvamme/Selvik"
 theme = "beautifulhugo"
 

@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "item": "http://localhost:1313/kvammeselvik/",
-          "name": "Home",
+          "name": "Heim",
           "position": 1
         },
         {
@@ -98,7 +98,7 @@
 <meta property="og:url" content="http://localhost:1313/kvammeselvik/posts/">
 	<meta property="og:site_name" content="Kvamme/Selvik">
 	<meta property="og:title" content="Posts">
-	<meta property="og:locale" content="en_us">
+	<meta property="og:locale" content="nn">
 	<meta property="og:type" content="website">
 <link rel="canonical" href="http://localhost:1313/kvammeselvik/posts/" />
   <meta name="twitter:title" content="Posts" />
@@ -140,20 +140,20 @@
       
       
       
-      <button class="theme-toggle" id="toc-toggle" aria-controls="toc-panel" aria-expanded="false" aria-label="Table of Contents" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Table of Contents">
+      <button class="theme-toggle" id="toc-toggle" aria-controls="toc-panel" aria-expanded="false" aria-label="Innhaldsliste" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Innhaldsliste">
         <span class="fas fa-list"></span>
       </button>
       
       
       
-      <button class="theme-toggle" id="theme-toggle" aria-label="Theme" data-bs-toggle="tooltip" data-bs-placement="bottom" data-tooltip-auto="Auto (follows system)" data-tooltip-light="Light mode" data-tooltip-dark="Dark mode" title="Auto (follows system)">
+      <button class="theme-toggle" id="theme-toggle" aria-label="Tema" data-bs-toggle="tooltip" data-bs-placement="bottom" data-tooltip-auto="Auto (følgjer systemet)" data-tooltip-light="Lys modus" data-tooltip-dark="Mørk modus" title="Auto (følgjer systemet)">
         <span class="fas fa-circle-half-stroke" id="theme-icon-auto"></span>
         <span class="fas fa-sun" id="theme-icon-light" style="display: none;"></span>
         <span class="fas fa-moon" id="theme-icon-dark" style="display: none;"></span>
       </button>
       
       
-      <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Navigasjon på/av">
   <span class="navbar-toggler-icon"></span>
 </button>
 
@@ -218,7 +218,7 @@
   
   
   
-    <i class="fas fa-calendar"></i>&nbsp;Posted on 2026-10-26
+    <i class="fas fa-calendar"></i>&nbsp;Postet 2026-10-26
     
     
   
@@ -227,7 +227,7 @@
     
       &nbsp;|&nbsp;
     
-    <i class="fas fa-book"></i>&nbsp;0&nbsp;words
+    <i class="fas fa-book"></i>&nbsp;0&nbsp;ord
     
   
   
@@ -274,7 +274,7 @@
   
   
   
-    <i class="fas fa-calendar"></i>&nbsp;Posted on 2026-10-26
+    <i class="fas fa-calendar"></i>&nbsp;Postet 2026-10-26
     
     
   
@@ -283,7 +283,7 @@
     
       &nbsp;|&nbsp;
     
-    <i class="fas fa-book"></i>&nbsp;95&nbsp;words
+    <i class="fas fa-book"></i>&nbsp;121&nbsp;ord
     
   
   
@@ -303,7 +303,7 @@
             
             <p>My first Hugo blog post.
 Det ser bra ut hittil.</p>
-<p>Men datoen vert ikkje rett?</p>
+<p>Men datoen vert ikkje rett? Det har med kvar parametrane vert plassert i <code>.toml</code>-fila.</p>
 <p>Her er litt kode, og det ser jo fint ut:
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -327,8 +327,9 @@ Det ser bra ut hittil.</p>
 </span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">quicksort</span><span class="p">(</span><span class="n">left</span><span class="p">)</span> <span class="o">+</span> <span class="n">middle</span> <span class="o">+</span> <span class="n">quicksort</span><span class="p">(</span><span class="n">right</span><span class="p">)</span></span></span></code></pre></td></tr></table>
 </div>
 </div>
-Kodeblokken får ikonet &ldquo;kopier meg!&rdquo; når du peiker på det.</p>
-
+Kodeblokken får ikonet &ldquo;kopier meg!&rdquo; når du peiker på det.
+Klarer den matematikk også? \(\sqrt{x^2+3}\) er inne i teksten, medan </p>
+            <a href="/kvammeselvik/posts/helloworld/" class="post-read-more">[Les meir]</a>
             
         </div>
     </div>
@@ -348,8 +349,8 @@ Kodeblokken får ikonet &ldquo;kopier meg!&rdquo; når du peiker på det.</p>
     
     <div class="offcanvas offcanvas-start toc-panel" id="toc-panel" tabindex="-1" aria-labelledby="toc-title" data-toc-mode="posts">
   <div class="offcanvas-header">
-    <span class="offcanvas-title toc-title" id="toc-title">Posts</span>
-    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close table of contents"></button>
+    <span class="offcanvas-title toc-title" id="toc-title">Innlegg</span>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Lukk innhaldslista"></button>
   </div>
   <nav class="offcanvas-body toc-body"><ul class="toc-post-list"><li><a href="/kvammeselvik/posts/helloworld/">Hello World</a></li></ul></nav>
 </div>
@@ -421,7 +422,7 @@ Kodeblokken får ikonet &ldquo;kopier meg!&rdquo; når du peiker på det.</p>
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="https://gohugo.io">Hugo v0.168.0</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          Køyrer på <a href="https://gohugo.io">Hugo v0.168.0</a>&nbsp;&bull;&nbsp; Tema frå <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> tilpassa frå <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>
