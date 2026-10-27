@@ -1,7 +1,9 @@
 +++
-title = "Hello World"
+title = "Første innlegg"
 date = 2026-10-26
 draft = false
+readingTime = true
+wordCount = true
 +++
 
 My first Hugo blog post.
