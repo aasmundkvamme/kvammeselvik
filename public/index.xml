@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Startside on Kvamme/Selvik</title>
-		<link>https://aasmundkvamme.github.io/kvammeselvik/</link>
+		<link>http://localhost:1313/kvammeselvik/</link>
 		<description>Recent content in Startside on Kvamme/Selvik</description>
 		<generator>Hugo</generator>
 		<language>nn</language>
@@ -16,41 +16,62 @@
 		
 			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://aasmundkvamme.github.io/kvammeselvik/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/kvammeselvik/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Frå Windows til Mac</title>
-				<link>https://aasmundkvamme.github.io/kvammeselvik/posts/windowstilmac/</link>
+				<link>http://localhost:1313/kvammeselvik/posts/windowstilmac/</link>
 				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
-				<guid>https://aasmundkvamme.github.io/kvammeselvik/posts/windowstilmac/</guid>
+				<guid>http://localhost:1313/kvammeselvik/posts/windowstilmac/</guid>
 				<description>&lt;p&gt;Av ulike grunnar måtte eg få ny PC på jobb. Og då kom ein god kollega med den gode ideen at eg skulle få ein MacBook Pro, og bruke den mellom anna for å køyre store språkmodellar lokalt. Det er mykje data i Canvas som er gult (ikkje med vilje, men av di studentar skriv litt mykje om seg sjølv innimellom), og til tider svakt raudt, så det kan vere greitt å ikkje spre slikt for alle vindar. Og det er også greitt å bygge opp kompetansen på å jobbe mot språkmodellane.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Det manglande talet</title>
-				<link>https://aasmundkvamme.github.io/kvammeselvik/posts/detmanglandetalet/</link>
+				<link>http://localhost:1313/kvammeselvik/posts/detmanglandetalet/</link>
 				<pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
-				<guid>https://aasmundkvamme.github.io/kvammeselvik/posts/detmanglandetalet/</guid>
+				<guid>http://localhost:1313/kvammeselvik/posts/detmanglandetalet/</guid>
 				<description>&lt;p&gt;«Djevelen ligg i detaljane» heiter det. Og nokon vil nok meine at det følgjande er i overkant nerdete og detaljstyrt. Men andre av oss tenkjer at det er bra at nokon har styr på detaljane. Når vi ikkje veit om vi kan stole på data, kan vi då stole på konklusjonane som vert trukket på bakgrunn av dei?&lt;/p&gt;&#xA;&lt;p&gt;Eg har lånt eit utdrag frå boka &lt;em&gt;Folkemengdens bevegelse 1735-2014&lt;/em&gt; av Espen Søbye, Forlaget Oktober. &lt;a href=&#34;https://www.ssb.no/befolkning/artikler-og-publikasjoner/folkemengdens-bevegelse-1735-2014&#34;&gt;Les den på Statistisk sentralbyrå sine sider&lt;/a&gt;. Den handlar på eitt plan om ein tabell over kor mange som vert fødd, som døyr, som vandrar inn i eller ut av landet. Og gjennom tabellen kan forfattaren skildre utviklinga av samfunnet; han gir kjøt på beina til det som ellers kunne vore tørre tal. Og ikkje minst: han formidler gleda over eit fagleg godt utført arbeid.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kroppshøgde og geografi</title>
-				<link>https://aasmundkvamme.github.io/kvammeselvik/posts/geografiogh%C3%B8gde/</link>
+				<link>http://localhost:1313/kvammeselvik/posts/geografiogh%C3%B8gde/</link>
 				<pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
-				<guid>https://aasmundkvamme.github.io/kvammeselvik/posts/geografiogh%C3%B8gde/</guid>
+				<guid>http://localhost:1313/kvammeselvik/posts/geografiogh%C3%B8gde/</guid>
 				<description>&lt;p&gt;På slutten av 1800-talet var det ein del interesse for å undersøke den generelle helsetilstanden til ein nasjon. Og ei gruppe menneske det var rimeleg enkelt å lage statistikk over var soldatar. Dei skulle jo gjennom ei undersøking på sesjon. Ein som gjorde mykje arbeid her var militærlege C. E. O. Arbo, som i samarbeid med &amp;ldquo;infanterisergent&amp;rdquo; Jonas Vestly i 1875 laga &amp;ldquo;Kart over legemshøiden i Norge (sydlige del)&amp;rdquo;. Heile kartet kan du laste ned frå &lt;a href=&#34;https://kartverket.no/om-kartverket/historie/historiske-kart/soketreff/mitt-kart?mapId=15776&#34;&gt;Kartverket&lt;/a&gt;, men eit lite utsnitt frå Sunnhordaland kan du sjå her:&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Heitevegger</title>
-				<link>https://aasmundkvamme.github.io/kvammeselvik/posts/heitevegger/</link>
+				<link>http://localhost:1313/kvammeselvik/posts/heitevegger/</link>
 				<pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
-				<guid>https://aasmundkvamme.github.io/kvammeselvik/posts/heitevegger/</guid>
+				<guid>http://localhost:1313/kvammeselvik/posts/heitevegger/</guid>
 				<description>&lt;p&gt;Som ein del av førebuinga til fasten skal ein &amp;ldquo;ete seg opp&amp;rdquo; i dagane før. Namn som Feitetysdag viser til det. Ein av dei mange tradisjonane er å ete &lt;a href=&#34;https://snl.no/heitevegg&#34;&gt;heitevegger&lt;/a&gt; på Blåmandag. Kvifor vi et det på akkurat måndagen er eg litt usikker på, men som for mange tradisjonar er det ikkje alltid like enkelt å finne den enkle forklaringa på alt.&lt;/p&gt;&#xA;&lt;p&gt;Oppskrifta er følger er enkel: Bjørg Kristin baker nokre ekstra store fastelavnsbollar (3-4 gonger vanleg storleik).&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Å vinne i Lotto</title>
+				<link>http://localhost:1313/kvammeselvik/posts/vinneilotto/</link>
+				<pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
+				<guid>http://localhost:1313/kvammeselvik/posts/vinneilotto/</guid>
+				<description>&lt;h2 id=&#34;bakgrunn&#34;&gt;Bakgrunn&lt;/h2&gt;&#xA;&lt;p&gt;Eg tippar Lotto fast kvar veke, og vinn av og til. I 2020 vant eg&#xA;faktisk 13 av 52 veker, og synest dette var svært ofte. Ikkje store&#xA;gevinstar; stort sett 50 kroner, så det var eit tapsprosjekt. Men eg&#xA;vart interessert, og reknar her ut sannsynligheten for at eg skal vinne&#xA;13 veker (eller fleire) i løpet av eit år.&lt;/p&gt;&#xA;&lt;p&gt;Premissane er altså: eg tippar ti ulike rekker kvar veke, 52 veker i&#xA;året. På kvar rekke kan eg vinne ein av fem ulike gevinstar: 7 rette, 6&#xA;rette og tilleggstal, 6 rette, 5 rette eller 4 rette.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gullfjellet februar 2021</title>
+				<link>http://localhost:1313/kvammeselvik/posts/gullfjellet/</link>
+				<pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
+				<guid>http://localhost:1313/kvammeselvik/posts/gullfjellet/</guid>
+				<description>&lt;p&gt;Fredag 5. februar hadde Johannes og eg fri, og han hadde foreslått å gå frå Gullbotn til Totland. Det vart ein fantastisk tur.&lt;/p&gt;&#xA;&lt;p&gt;Tog Bergen-Arna 0730 og så buss mot Hardanger, og avmarsj frå Gullbotn 0815 (1 på kartet heilt nedst):&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;box fancy-figure caption-position-bottom center&#34; style=&#34;max-width:100%&#34;&gt;&#xA;  &lt;figure class=&#34;center&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34; data-size=&#34;1024x576&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050001-1024x576_hu_d63945b98ce0f4f.jpg&#34; srcset=&#34;http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050001-1024x576_hu_9554e9ccb0bb627c.jpg 480w, http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050001-1024x576_hu_d63945b98ce0f4f.jpg 800w, http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050001-1024x576.jpg 1024w&#34; sizes=&#34;(max-width: 768px) 100vw, 768px&#34; alt=&#34;/kvammeselvik/posts/gullfjellet/P2050001-1024x576_hu_d63945b98ce0f4f.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050001-1024x576.jpg&#34; itemprop=&#34;contentUrl&#34; target=&#34;_blank&#34; data-pswp-width=&#34;1024&#34; data-pswp-height=&#34;576&#34;&gt;&lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;box fancy-figure caption-position-bottom center&#34; style=&#34;max-width:100%&#34;&gt;&#xA;  &lt;figure class=&#34;center&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34; data-size=&#34;1024x576&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050003-1024x576_hu_394cc4a9b5362e36.jpg&#34; srcset=&#34;http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050003-1024x576_hu_8433a995b6c0a863.jpg 480w, http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050003-1024x576_hu_394cc4a9b5362e36.jpg 800w, http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050003-1024x576.jpg 1024w&#34; sizes=&#34;(max-width: 768px) 100vw, 768px&#34; alt=&#34;/kvammeselvik/posts/gullfjellet/P2050003-1024x576_hu_394cc4a9b5362e36.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/kvammeselvik/posts/gullfjellet/P2050003-1024x576.jpg&#34; itemprop=&#34;contentUrl&#34; target=&#34;_blank&#34; data-pswp-width=&#34;1024&#34; data-pswp-height=&#34;576&#34;&gt;&lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;Første kneiken etter at vi var komne opp frå skogen var opp mot sjølve Gullfjelltoppen. Det var fint i starten, innover mot sjølve Gullbotn, med toppen langt der oppe:&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Brev fra glemselen</title>
-				<link>https://aasmundkvamme.github.io/kvammeselvik/posts/brevfraglemselen/</link>
+				<link>http://localhost:1313/kvammeselvik/posts/brevfraglemselen/</link>
 				<pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
-				<guid>https://aasmundkvamme.github.io/kvammeselvik/posts/brevfraglemselen/</guid>
+				<guid>http://localhost:1313/kvammeselvik/posts/brevfraglemselen/</guid>
 				<description>&lt;p&gt;Etter at foreldra mine sa opp (og tømte) bankboksen, dukka det opp mange artige ting. Mellom anna Donald nr 1 frå 1948 (men det er ei anna soge).&lt;/p&gt;&#xA;&lt;p&gt;Dette brevet har ei lita forhistorie: hausten 1969 (då eg var seks år gamal) fekk eg lov til å starte i første klasse, eitt år før tida. Men etter to veker fann dei ut at eg nok hadde det boklege på plass, men eg var langt frå &amp;ldquo;skulemoden&amp;rdquo;. Så eg vart sendt heim med melding om å kome att når eg var sju.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Helgatun 2017</title>
+				<link>http://localhost:1313/kvammeselvik/posts/helgatun/</link>
+				<pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate><author>aasmund.kvamme@proton.me (Aasmund Kvamme)</author>
+				<guid>http://localhost:1313/kvammeselvik/posts/helgatun/</guid>
+				<description>&lt;p&gt;Nok ein fin tur til Helgatun med Landås menighet - for nokre av oss den 17. turen. For andre den første. Programmet er som kvart einaste år: fredag kjem alle fram, et middag og vert litt betre kjent med kvarandre. Laurdag er det gudstenesteverkstad og så ut på tur. Vi vaksne går i bakken medan småbarnsfamiliane går ulike korte turar (med bål).&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;div class=&#34;box fancy-figure caption-position-bottom center&#34; style=&#34;max-width:50%&#34;&gt;&#xA;  &lt;figure class=&#34;center&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34; data-size=&#34;1024x576&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/kvammeselvik/posts/helgatun/P3190255-1024x576_hu_6a88cb4778185760.jpg&#34; srcset=&#34;http://localhost:1313/kvammeselvik/posts/helgatun/P3190255-1024x576_hu_c241b75718b9a8af.jpg 480w, http://localhost:1313/kvammeselvik/posts/helgatun/P3190255-1024x576_hu_6a88cb4778185760.jpg 800w, http://localhost:1313/kvammeselvik/posts/helgatun/P3190255-1024x576.jpg 1024w&#34; sizes=&#34;(max-width: 768px) 100vw, 768px&#34; alt=&#34;/kvammeselvik/posts/helgatun/P3190255-1024x576_hu_6a88cb4778185760.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/kvammeselvik/posts/helgatun/P3190255-1024x576.jpg&#34; itemprop=&#34;contentUrl&#34; target=&#34;_blank&#34; data-pswp-width=&#34;1024&#34; data-pswp-height=&#34;576&#34;&gt;&lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA; &#xA; &lt;div class=&#34;box fancy-figure caption-position-bottom center&#34; style=&#34;max-width:50%&#34;&gt;&#xA;   &lt;figure class=&#34;center&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;&#xA;     &lt;div class=&#34;img&#34; data-size=&#34;1024x576&#34;&gt;&#xA;       &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/kvammeselvik/posts/helgatun/P3190268-1024x576_hu_3913ee3944361a9f.jpg&#34; srcset=&#34;http://localhost:1313/kvammeselvik/posts/helgatun/P3190268-1024x576_hu_12288d1ed047f1cb.jpg 480w, http://localhost:1313/kvammeselvik/posts/helgatun/P3190268-1024x576_hu_3913ee3944361a9f.jpg 800w, http://localhost:1313/kvammeselvik/posts/helgatun/P3190268-1024x576.jpg 1024w&#34; sizes=&#34;(max-width: 768px) 100vw, 768px&#34; alt=&#34;/kvammeselvik/posts/helgatun/P3190268-1024x576_hu_3913ee3944361a9f.jpg&#34;/&gt;&#xA;     &lt;/div&gt;&#xA;     &lt;a href=&#34;http://localhost:1313/kvammeselvik/posts/helgatun/P3190268-1024x576.jpg&#34; itemprop=&#34;contentUrl&#34; target=&#34;_blank&#34; data-pswp-width=&#34;1024&#34; data-pswp-height=&#34;576&#34;&gt;&lt;/a&gt;&#xA;   &lt;/figure&gt;&#xA; &lt;/div&gt;&#xA; &#xA;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

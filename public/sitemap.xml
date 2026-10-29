@@ -2,29 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/posts/windowstilmac/</loc>
+    <loc>http://localhost:1313/kvammeselvik/posts/windowstilmac/</loc>
     <lastmod>2026-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/posts/</loc>
+    <loc>http://localhost:1313/kvammeselvik/posts/</loc>
     <lastmod>2026-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/</loc>
+    <loc>http://localhost:1313/kvammeselvik/</loc>
     <lastmod>2026-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/posts/detmanglandetalet/</loc>
+    <loc>http://localhost:1313/kvammeselvik/posts/detmanglandetalet/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/posts/geografiogh%C3%B8gde/</loc>
+    <loc>http://localhost:1313/kvammeselvik/posts/geografiogh%C3%B8gde/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/posts/heitevegger/</loc>
+    <loc>http://localhost:1313/kvammeselvik/posts/heitevegger/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/posts/brevfraglemselen/</loc>
+    <loc>http://localhost:1313/kvammeselvik/posts/vinneilotto/</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kvammeselvik/posts/gullfjellet/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kvammeselvik/posts/brevfraglemselen/</loc>
     <lastmod>2017-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/categories/</loc>
+    <loc>http://localhost:1313/kvammeselvik/posts/helgatun/</loc>
+    <lastmod>2017-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aasmundkvamme.github.io/kvammeselvik/tags/</loc>
+    <loc>http://localhost:1313/kvammeselvik/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kvammeselvik/tags/</loc>
   </url>
 </urlset>

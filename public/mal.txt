@@ -1,0 +1,19 @@
++++
+title = "Testside"
+date = "2026-10-27"
+draft = true
+wordCount = true
+readingTime = true
++++
+
+
+Denne sida er her berre for at eg skal teste ulike ting.
+
+Kode:
+{{< highlight go "linenos=inline" >}}
+for i in [0,1,2]:
+    print(i)
+{{< /highlight >}}
+
+Bilete:
+{{< beautifulfigure src="/img/global-ike.png" caption="" width="25%" class="center" >}}
