@@ -1,7 +1,7 @@
 +++
 title = "Sumaren 2023"
 date =  2023-07-15
-draft = true
+draft = false
 readingtime = true
 wordcount = true
 +++

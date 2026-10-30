@@ -3,7 +3,7 @@ title = "Lofoten 2021"
 date = 2021-10-05
 readingtime = true
 wordcount = true
-draft = true
+draft = false
 +++
 
 # Laurdag 2. oktober
